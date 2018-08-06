@@ -1,0 +1,843 @@
+fileFormatVersion: 2
+guid: c9d2faffbc993644c8db8cbafead4fdf
+timeCreated: 1511075220
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: badan
+    100002: badan.001
+    100004: badan.002
+    100006: //RootNode
+    100008: beruang
+    100010: beruang.bone
+    100012: hidung
+    100014: hidung_end
+    100016: kaki.001.L
+    100018: kaki.001.R
+    100020: kaki.002.L
+    100022: kaki.002.L_end
+    100024: kaki.002.R
+    100026: kaki.002.R_end
+    100028: kaki.L
+    100030: kaki.R
+    100032: kepala
+    100034: mata.L
+    100036: mata.L_end
+    100038: mata.R
+    100040: mata.R_end
+    100042: mulut
+    100044: mulut_end
+    100046: tangan.001.L
+    100048: tangan.001.R
+    100050: tangan.002.L
+    100052: tangan.002.L_end
+    100054: tangan.002.R
+    100056: tangan.002.R_end
+    100058: tangan.L
+    100060: tangan.R
+    100062: telinga.L
+    100064: telinga.L_end
+    100066: telinga.R
+    100068: telinga.R_end
+    400000: badan
+    400002: badan.001
+    400004: badan.002
+    400006: //RootNode
+    400008: beruang
+    400010: beruang.bone
+    400012: hidung
+    400014: hidung_end
+    400016: kaki.001.L
+    400018: kaki.001.R
+    400020: kaki.002.L
+    400022: kaki.002.L_end
+    400024: kaki.002.R
+    400026: kaki.002.R_end
+    400028: kaki.L
+    400030: kaki.R
+    400032: kepala
+    400034: mata.L
+    400036: mata.L_end
+    400038: mata.R
+    400040: mata.R_end
+    400042: mulut
+    400044: mulut_end
+    400046: tangan.001.L
+    400048: tangan.001.R
+    400050: tangan.002.L
+    400052: tangan.002.L_end
+    400054: tangan.002.R
+    400056: tangan.002.R_end
+    400058: tangan.L
+    400060: tangan.R
+    400062: telinga.L
+    400064: telinga.L_end
+    400066: telinga.R
+    400068: telinga.R_end
+    4300000: beruang
+    7400000: beruang.bone|hidung
+    7400002: beruang.bone|idle
+    7400004: beruang.bone|kaki
+    7400006: beruang.bone|mata
+    7400008: beruang.bone|mulut
+    7400010: beruang.bone|tangan
+    7400012: beruang.bone|telinga
+    9500000: //RootNode
+    13700000: beruang
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: beruang.bone|hidung
+      takeName: beruang.bone|hidung
+      firstFrame: 0
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: beruang
+        weight: 1
+      - path: beruang.bone
+        weight: 1
+      - path: beruang.bone/badan
+        weight: 1
+      - path: beruang.bone/badan/badan.001
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/hidung
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/hidung/hidung_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.L/mata.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.R/mata.R_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mulut
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mulut/mulut_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.L/telinga.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.R/telinga.R_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L/tangan.001.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L/tangan.002.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R/tangan.001.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R/tangan.002.R_end
+        weight: 1
+      - path: beruang.bone/badan/badan.002
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L/kaki.001.L
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L/kaki.002.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R/kaki.001.R
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R/kaki.002.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: beruang.bone|idle
+      takeName: beruang.bone|idle
+      firstFrame: 0
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: beruang
+        weight: 1
+      - path: beruang.bone
+        weight: 1
+      - path: beruang.bone/badan
+        weight: 1
+      - path: beruang.bone/badan/badan.001
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/hidung
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/hidung/hidung_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.L/mata.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.R/mata.R_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mulut
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mulut/mulut_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.L/telinga.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.R/telinga.R_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L/tangan.001.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L/tangan.002.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R/tangan.001.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R/tangan.002.R_end
+        weight: 1
+      - path: beruang.bone/badan/badan.002
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L/kaki.001.L
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L/kaki.002.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R/kaki.001.R
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R/kaki.002.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: beruang.bone|kaki
+      takeName: beruang.bone|kaki
+      firstFrame: 0
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: beruang
+        weight: 1
+      - path: beruang.bone
+        weight: 1
+      - path: beruang.bone/badan
+        weight: 1
+      - path: beruang.bone/badan/badan.001
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/hidung
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/hidung/hidung_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.L/mata.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.R/mata.R_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mulut
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mulut/mulut_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.L/telinga.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.R/telinga.R_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L/tangan.001.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L/tangan.002.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R/tangan.001.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R/tangan.002.R_end
+        weight: 1
+      - path: beruang.bone/badan/badan.002
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L/kaki.001.L
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L/kaki.002.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R/kaki.001.R
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R/kaki.002.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: beruang.bone|mata
+      takeName: beruang.bone|mata
+      firstFrame: 0
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: beruang
+        weight: 1
+      - path: beruang.bone
+        weight: 1
+      - path: beruang.bone/badan
+        weight: 1
+      - path: beruang.bone/badan/badan.001
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/hidung
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/hidung/hidung_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.L/mata.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.R/mata.R_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mulut
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mulut/mulut_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.L/telinga.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.R/telinga.R_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L/tangan.001.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L/tangan.002.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R/tangan.001.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R/tangan.002.R_end
+        weight: 1
+      - path: beruang.bone/badan/badan.002
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L/kaki.001.L
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L/kaki.002.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R/kaki.001.R
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R/kaki.002.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: beruang.bone|mulut
+      takeName: beruang.bone|mulut
+      firstFrame: 0
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: beruang
+        weight: 1
+      - path: beruang.bone
+        weight: 1
+      - path: beruang.bone/badan
+        weight: 1
+      - path: beruang.bone/badan/badan.001
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/hidung
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/hidung/hidung_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.L/mata.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.R/mata.R_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mulut
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mulut/mulut_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.L/telinga.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.R/telinga.R_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L/tangan.001.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L/tangan.002.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R/tangan.001.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R/tangan.002.R_end
+        weight: 1
+      - path: beruang.bone/badan/badan.002
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L/kaki.001.L
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L/kaki.002.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R/kaki.001.R
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R/kaki.002.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: beruang.bone|tangan
+      takeName: beruang.bone|tangan
+      firstFrame: 0
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: beruang
+        weight: 1
+      - path: beruang.bone
+        weight: 1
+      - path: beruang.bone/badan
+        weight: 1
+      - path: beruang.bone/badan/badan.001
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/hidung
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/hidung/hidung_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.L/mata.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.R/mata.R_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mulut
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mulut/mulut_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.L/telinga.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.R/telinga.R_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L/tangan.001.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L/tangan.002.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R/tangan.001.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R/tangan.002.R_end
+        weight: 1
+      - path: beruang.bone/badan/badan.002
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L/kaki.001.L
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L/kaki.002.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R/kaki.001.R
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R/kaki.002.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: beruang.bone|telinga
+      takeName: beruang.bone|telinga
+      firstFrame: 0
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: beruang
+        weight: 1
+      - path: beruang.bone
+        weight: 1
+      - path: beruang.bone/badan
+        weight: 1
+      - path: beruang.bone/badan/badan.001
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/hidung
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/hidung/hidung_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.L/mata.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mata.R/mata.R_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mulut
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/mulut/mulut_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.L/telinga.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/kepala/telinga.R/telinga.R_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L/tangan.001.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L/tangan.002.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R/tangan.001.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R
+        weight: 1
+      - path: beruang.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R/tangan.002.R_end
+        weight: 1
+      - path: beruang.bone/badan/badan.002
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L/kaki.001.L
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L/kaki.002.L_end
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R/kaki.001.R
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R
+        weight: 1
+      - path: beruang.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R/kaki.002.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

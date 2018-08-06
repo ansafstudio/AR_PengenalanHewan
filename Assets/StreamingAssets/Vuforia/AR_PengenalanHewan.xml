@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="gajah" size="200.000000 223.255814" />
+    <ImageTarget name="cheetah" size="200.000000 223.255814" />
+    <ImageTarget name="beruang" size="200.000000 224.418610" />
+    <ImageTarget name="zebra" size="200.000000 223.255814" />
+    <ImageTarget name="kanguru" size="200.000000 224.418610" />
+    <ImageTarget name="zebra2" size="150.000000 153.017975" />
+    <ImageTarget name="kanguru2" size="150.000000 127.992279" />
+    <ImageTarget name="beruang2" size="150.000000 157.409531" />
+    <ImageTarget name="gajah2" size="150.000000 103.438110" />
+    <ImageTarget name="cheetah2" size="150.000000 181.574295" />
+  </Tracking>
+</QCARConfig>

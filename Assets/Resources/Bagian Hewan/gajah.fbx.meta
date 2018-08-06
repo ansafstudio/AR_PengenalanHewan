@@ -1,0 +1,1067 @@
+fileFormatVersion: 2
+guid: cd0a5b5388d74b9458c33ac4147cf3fa
+timeCreated: 1511075225
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: badan
+    100002: badan.belakang
+    100004: badan.depan
+    100006: belalai
+    100008: belalai.001
+    100010: belalai.002
+    100012: belalai.003
+    100014: belalai.004
+    100016: belalai.005
+    100018: belalai.005_end
+    100020: belalai.006
+    100022: ekor.1
+    100024: ekor.2
+    100026: ekor.3
+    100028: ekor.4
+    100030: ekor.5
+    100032: ekor.5_end
+    100034: gading.L
+    100036: gading.L_end
+    100038: gading.R
+    100040: gading.R_end
+    100042: //RootNode
+    100044: gajah
+    100046: gajah.bone
+    100048: kaki.001.L
+    100050: kaki.001.R
+    100052: kaki.002.L
+    100054: kaki.002.L_end
+    100056: kaki.002.R
+    100058: kaki.002.R_end
+    100060: kaki.L
+    100062: kaki.R
+    100064: kepala
+    100066: mata.L
+    100068: mata.L_end
+    100070: mata.R
+    100072: mata.R_end
+    100074: tangan.001.L
+    100076: tangan.001.R
+    100078: tangan.002.L
+    100080: tangan.002.L_end
+    100082: tangan.002.R
+    100084: tangan.002.R_end
+    100086: tangan.L
+    100088: tangan.R
+    100090: telinga.L
+    100092: telinga.L_end
+    100094: telinga.R
+    100096: telinga.R_end
+    400000: badan
+    400002: badan.belakang
+    400004: badan.depan
+    400006: belalai
+    400008: belalai.001
+    400010: belalai.002
+    400012: belalai.003
+    400014: belalai.004
+    400016: belalai.005
+    400018: belalai.005_end
+    400020: belalai.006
+    400022: ekor.1
+    400024: ekor.2
+    400026: ekor.3
+    400028: ekor.4
+    400030: ekor.5
+    400032: ekor.5_end
+    400034: gading.L
+    400036: gading.L_end
+    400038: gading.R
+    400040: gading.R_end
+    400042: gajah
+    400044: //RootNode
+    400046: gajah.bone
+    400048: kaki.001.L
+    400050: kaki.001.R
+    400052: kaki.002.L
+    400054: kaki.002.L_end
+    400056: kaki.002.R
+    400058: kaki.002.R_end
+    400060: kaki.L
+    400062: kaki.R
+    400064: kepala
+    400066: mata.L
+    400068: mata.L_end
+    400070: mata.R
+    400072: mata.R_end
+    400074: tangan.001.L
+    400076: tangan.001.R
+    400078: tangan.002.L
+    400080: tangan.002.L_end
+    400082: tangan.002.R
+    400084: tangan.002.R_end
+    400086: tangan.L
+    400088: tangan.R
+    400090: telinga.L
+    400092: telinga.L_end
+    400094: telinga.R
+    400096: telinga.R_end
+    4300000: gajah
+    7400000: gajah.bone|ekor
+    7400002: gajah.bone|gading
+    7400004: gajah.bone|idle
+    7400006: gajah.bone|kaki
+    7400008: gajah.bone|mata
+    7400010: gajah.bone|tangan
+    7400012: gajah.bone|telinga
+    9500000: //RootNode
+    13700000: gajah
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: gajah.bone|ekor
+      takeName: gajah.bone|ekor
+      firstFrame: 0
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gajah
+        weight: 1
+      - path: gajah.bone
+        weight: 1
+      - path: gajah.bone/badan
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3/ekor.4
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3/ekor.4/ekor.5
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3/ekor.4/ekor.5/ekor.5_end
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L/kaki.001.L
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L/kaki.001.L/kaki.002.L
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L/kaki.001.L/kaki.002.L/kaki.002.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R/kaki.001.R
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R/kaki.001.R/kaki.002.R
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R/kaki.001.R/kaki.002.R/kaki.002.R_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006/belalai.004
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006/belalai.004/belalai.005
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006/belalai.004/belalai.005/belalai.005_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.L
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.L/gading.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.R
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.R/gading.R_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.L
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.L/mata.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.R
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.R/mata.R_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.L
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.L/telinga.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.R
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.R/telinga.R_end
+        weight: 1
+      - path: gajah.bone/badan/tangan.L
+        weight: 1
+      - path: gajah.bone/badan/tangan.L/tangan.001.L
+        weight: 1
+      - path: gajah.bone/badan/tangan.L/tangan.001.L/tangan.002.L
+        weight: 1
+      - path: gajah.bone/badan/tangan.L/tangan.001.L/tangan.002.L/tangan.002.L_end
+        weight: 1
+      - path: gajah.bone/badan/tangan.R
+        weight: 1
+      - path: gajah.bone/badan/tangan.R/tangan.001.R
+        weight: 1
+      - path: gajah.bone/badan/tangan.R/tangan.001.R/tangan.002.R
+        weight: 1
+      - path: gajah.bone/badan/tangan.R/tangan.001.R/tangan.002.R/tangan.002.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: gajah.bone|gading
+      takeName: gajah.bone|gading
+      firstFrame: 0
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gajah
+        weight: 1
+      - path: gajah.bone
+        weight: 1
+      - path: gajah.bone/badan
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3/ekor.4
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3/ekor.4/ekor.5
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3/ekor.4/ekor.5/ekor.5_end
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L/kaki.001.L
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L/kaki.001.L/kaki.002.L
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L/kaki.001.L/kaki.002.L/kaki.002.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R/kaki.001.R
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R/kaki.001.R/kaki.002.R
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R/kaki.001.R/kaki.002.R/kaki.002.R_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006/belalai.004
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006/belalai.004/belalai.005
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006/belalai.004/belalai.005/belalai.005_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.L
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.L/gading.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.R
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.R/gading.R_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.L
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.L/mata.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.R
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.R/mata.R_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.L
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.L/telinga.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.R
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.R/telinga.R_end
+        weight: 1
+      - path: gajah.bone/badan/tangan.L
+        weight: 1
+      - path: gajah.bone/badan/tangan.L/tangan.001.L
+        weight: 1
+      - path: gajah.bone/badan/tangan.L/tangan.001.L/tangan.002.L
+        weight: 1
+      - path: gajah.bone/badan/tangan.L/tangan.001.L/tangan.002.L/tangan.002.L_end
+        weight: 1
+      - path: gajah.bone/badan/tangan.R
+        weight: 1
+      - path: gajah.bone/badan/tangan.R/tangan.001.R
+        weight: 1
+      - path: gajah.bone/badan/tangan.R/tangan.001.R/tangan.002.R
+        weight: 1
+      - path: gajah.bone/badan/tangan.R/tangan.001.R/tangan.002.R/tangan.002.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: gajah.bone|idle
+      takeName: gajah.bone|idle
+      firstFrame: 0
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gajah
+        weight: 1
+      - path: gajah.bone
+        weight: 1
+      - path: gajah.bone/badan
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3/ekor.4
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3/ekor.4/ekor.5
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3/ekor.4/ekor.5/ekor.5_end
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L/kaki.001.L
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L/kaki.001.L/kaki.002.L
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L/kaki.001.L/kaki.002.L/kaki.002.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R/kaki.001.R
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R/kaki.001.R/kaki.002.R
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R/kaki.001.R/kaki.002.R/kaki.002.R_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006/belalai.004
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006/belalai.004/belalai.005
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006/belalai.004/belalai.005/belalai.005_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.L
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.L/gading.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.R
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.R/gading.R_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.L
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.L/mata.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.R
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.R/mata.R_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.L
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.L/telinga.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.R
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.R/telinga.R_end
+        weight: 1
+      - path: gajah.bone/badan/tangan.L
+        weight: 1
+      - path: gajah.bone/badan/tangan.L/tangan.001.L
+        weight: 1
+      - path: gajah.bone/badan/tangan.L/tangan.001.L/tangan.002.L
+        weight: 1
+      - path: gajah.bone/badan/tangan.L/tangan.001.L/tangan.002.L/tangan.002.L_end
+        weight: 1
+      - path: gajah.bone/badan/tangan.R
+        weight: 1
+      - path: gajah.bone/badan/tangan.R/tangan.001.R
+        weight: 1
+      - path: gajah.bone/badan/tangan.R/tangan.001.R/tangan.002.R
+        weight: 1
+      - path: gajah.bone/badan/tangan.R/tangan.001.R/tangan.002.R/tangan.002.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: gajah.bone|kaki
+      takeName: gajah.bone|kaki
+      firstFrame: 0
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gajah
+        weight: 1
+      - path: gajah.bone
+        weight: 1
+      - path: gajah.bone/badan
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3/ekor.4
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3/ekor.4/ekor.5
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3/ekor.4/ekor.5/ekor.5_end
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L/kaki.001.L
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L/kaki.001.L/kaki.002.L
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L/kaki.001.L/kaki.002.L/kaki.002.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R/kaki.001.R
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R/kaki.001.R/kaki.002.R
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R/kaki.001.R/kaki.002.R/kaki.002.R_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006/belalai.004
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006/belalai.004/belalai.005
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006/belalai.004/belalai.005/belalai.005_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.L
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.L/gading.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.R
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.R/gading.R_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.L
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.L/mata.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.R
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.R/mata.R_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.L
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.L/telinga.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.R
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.R/telinga.R_end
+        weight: 1
+      - path: gajah.bone/badan/tangan.L
+        weight: 1
+      - path: gajah.bone/badan/tangan.L/tangan.001.L
+        weight: 1
+      - path: gajah.bone/badan/tangan.L/tangan.001.L/tangan.002.L
+        weight: 1
+      - path: gajah.bone/badan/tangan.L/tangan.001.L/tangan.002.L/tangan.002.L_end
+        weight: 1
+      - path: gajah.bone/badan/tangan.R
+        weight: 1
+      - path: gajah.bone/badan/tangan.R/tangan.001.R
+        weight: 1
+      - path: gajah.bone/badan/tangan.R/tangan.001.R/tangan.002.R
+        weight: 1
+      - path: gajah.bone/badan/tangan.R/tangan.001.R/tangan.002.R/tangan.002.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: gajah.bone|mata
+      takeName: gajah.bone|mata
+      firstFrame: 0
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gajah
+        weight: 1
+      - path: gajah.bone
+        weight: 1
+      - path: gajah.bone/badan
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3/ekor.4
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3/ekor.4/ekor.5
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3/ekor.4/ekor.5/ekor.5_end
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L/kaki.001.L
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L/kaki.001.L/kaki.002.L
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L/kaki.001.L/kaki.002.L/kaki.002.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R/kaki.001.R
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R/kaki.001.R/kaki.002.R
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R/kaki.001.R/kaki.002.R/kaki.002.R_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006/belalai.004
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006/belalai.004/belalai.005
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006/belalai.004/belalai.005/belalai.005_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.L
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.L/gading.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.R
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.R/gading.R_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.L
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.L/mata.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.R
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.R/mata.R_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.L
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.L/telinga.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.R
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.R/telinga.R_end
+        weight: 1
+      - path: gajah.bone/badan/tangan.L
+        weight: 1
+      - path: gajah.bone/badan/tangan.L/tangan.001.L
+        weight: 1
+      - path: gajah.bone/badan/tangan.L/tangan.001.L/tangan.002.L
+        weight: 1
+      - path: gajah.bone/badan/tangan.L/tangan.001.L/tangan.002.L/tangan.002.L_end
+        weight: 1
+      - path: gajah.bone/badan/tangan.R
+        weight: 1
+      - path: gajah.bone/badan/tangan.R/tangan.001.R
+        weight: 1
+      - path: gajah.bone/badan/tangan.R/tangan.001.R/tangan.002.R
+        weight: 1
+      - path: gajah.bone/badan/tangan.R/tangan.001.R/tangan.002.R/tangan.002.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: gajah.bone|tangan
+      takeName: gajah.bone|tangan
+      firstFrame: 0
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gajah
+        weight: 1
+      - path: gajah.bone
+        weight: 1
+      - path: gajah.bone/badan
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3/ekor.4
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3/ekor.4/ekor.5
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3/ekor.4/ekor.5/ekor.5_end
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L/kaki.001.L
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L/kaki.001.L/kaki.002.L
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L/kaki.001.L/kaki.002.L/kaki.002.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R/kaki.001.R
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R/kaki.001.R/kaki.002.R
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R/kaki.001.R/kaki.002.R/kaki.002.R_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006/belalai.004
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006/belalai.004/belalai.005
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006/belalai.004/belalai.005/belalai.005_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.L
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.L/gading.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.R
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.R/gading.R_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.L
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.L/mata.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.R
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.R/mata.R_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.L
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.L/telinga.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.R
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.R/telinga.R_end
+        weight: 1
+      - path: gajah.bone/badan/tangan.L
+        weight: 1
+      - path: gajah.bone/badan/tangan.L/tangan.001.L
+        weight: 1
+      - path: gajah.bone/badan/tangan.L/tangan.001.L/tangan.002.L
+        weight: 1
+      - path: gajah.bone/badan/tangan.L/tangan.001.L/tangan.002.L/tangan.002.L_end
+        weight: 1
+      - path: gajah.bone/badan/tangan.R
+        weight: 1
+      - path: gajah.bone/badan/tangan.R/tangan.001.R
+        weight: 1
+      - path: gajah.bone/badan/tangan.R/tangan.001.R/tangan.002.R
+        weight: 1
+      - path: gajah.bone/badan/tangan.R/tangan.001.R/tangan.002.R/tangan.002.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: gajah.bone|telinga
+      takeName: gajah.bone|telinga
+      firstFrame: 0
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gajah
+        weight: 1
+      - path: gajah.bone
+        weight: 1
+      - path: gajah.bone/badan
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3/ekor.4
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3/ekor.4/ekor.5
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/ekor.1/ekor.2/ekor.3/ekor.4/ekor.5/ekor.5_end
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L/kaki.001.L
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L/kaki.001.L/kaki.002.L
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.L/kaki.001.L/kaki.002.L/kaki.002.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R/kaki.001.R
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R/kaki.001.R/kaki.002.R
+        weight: 1
+      - path: gajah.bone/badan/badan.belakang/kaki.R/kaki.001.R/kaki.002.R/kaki.002.R_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006/belalai.004
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006/belalai.004/belalai.005
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/belalai/belalai.001/belalai.002/belalai.003/belalai.006/belalai.004/belalai.005/belalai.005_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.L
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.L/gading.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.R
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/gading.R/gading.R_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.L
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.L/mata.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.R
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/mata.R/mata.R_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.L
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.L/telinga.L_end
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.R
+        weight: 1
+      - path: gajah.bone/badan/badan.depan/kepala/telinga.R/telinga.R_end
+        weight: 1
+      - path: gajah.bone/badan/tangan.L
+        weight: 1
+      - path: gajah.bone/badan/tangan.L/tangan.001.L
+        weight: 1
+      - path: gajah.bone/badan/tangan.L/tangan.001.L/tangan.002.L
+        weight: 1
+      - path: gajah.bone/badan/tangan.L/tangan.001.L/tangan.002.L/tangan.002.L_end
+        weight: 1
+      - path: gajah.bone/badan/tangan.R
+        weight: 1
+      - path: gajah.bone/badan/tangan.R/tangan.001.R
+        weight: 1
+      - path: gajah.bone/badan/tangan.R/tangan.001.R/tangan.002.R
+        weight: 1
+      - path: gajah.bone/badan/tangan.R/tangan.001.R/tangan.002.R/tangan.002.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

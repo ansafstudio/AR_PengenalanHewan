@@ -1,0 +1,1104 @@
+fileFormatVersion: 2
+guid: 35230bac50586c348bc9593a8e158442
+timeCreated: 1512028705
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: badan
+    100002: badan.001
+    100004: badan.002
+    100006: //RootNode
+    100008: citah
+    100010: citah.bone
+    100012: ekor
+    100014: ekor.001
+    100016: ekor.002
+    100018: ekor.003
+    100020: ekor.004
+    100022: ekor.005
+    100024: ekor.005_end
+    100026: hidung
+    100028: hidung_end
+    100030: kaki.001.L
+    100032: kaki.001.R
+    100034: kaki.002.L
+    100036: kaki.002.R
+    100038: kaki.003.L
+    100040: kaki.003.L_end
+    100042: kaki.003.R
+    100044: kaki.003.R_end
+    100046: kaki.L
+    100048: kaki.R
+    100050: kepala
+    100052: mata.L
+    100054: mata.L_end
+    100056: mata.R
+    100058: mata.R_end
+    100060: mulut
+    100062: mulut_end
+    100064: tangan.001.L
+    100066: tangan.001.R
+    100068: tangan.002.L
+    100070: tangan.002.L_end
+    100072: tangan.002.R
+    100074: tangan.002.R_end
+    100076: tangan.L
+    100078: tangan.R
+    100080: telinga.L
+    100082: telinga.L_end
+    100084: telinga.R
+    100086: telinga.R_end
+    400000: badan
+    400002: badan.001
+    400004: badan.002
+    400006: //RootNode
+    400008: citah
+    400010: citah.bone
+    400012: ekor
+    400014: ekor.001
+    400016: ekor.002
+    400018: ekor.003
+    400020: ekor.004
+    400022: ekor.005
+    400024: ekor.005_end
+    400026: hidung
+    400028: hidung_end
+    400030: kaki.001.L
+    400032: kaki.001.R
+    400034: kaki.002.L
+    400036: kaki.002.R
+    400038: kaki.003.L
+    400040: kaki.003.L_end
+    400042: kaki.003.R
+    400044: kaki.003.R_end
+    400046: kaki.L
+    400048: kaki.R
+    400050: kepala
+    400052: mata.L
+    400054: mata.L_end
+    400056: mata.R
+    400058: mata.R_end
+    400060: mulut
+    400062: mulut_end
+    400064: tangan.001.L
+    400066: tangan.001.R
+    400068: tangan.002.L
+    400070: tangan.002.L_end
+    400072: tangan.002.R
+    400074: tangan.002.R_end
+    400076: tangan.L
+    400078: tangan.R
+    400080: telinga.L
+    400082: telinga.L_end
+    400084: telinga.R
+    400086: telinga.R_end
+    4300000: citah
+    7400000: citah.bone|ekor
+    7400002: citah.bone|hidung
+    7400004: citah.bone|idle
+    7400006: citah.bone|kaki
+    7400008: citah.bone|mata
+    7400010: citah.bone|mulut
+    7400012: citah.bone|tangan
+    7400014: citah.bone|telinga
+    9500000: //RootNode
+    13700000: citah
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: citah.bone|ekor
+      takeName: citah.bone|ekor
+      firstFrame: 0
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: citah
+        weight: 1
+      - path: citah.bone
+        weight: 1
+      - path: citah.bone/badan
+        weight: 1
+      - path: citah.bone/badan/badan.001
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/hidung
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/hidung/hidung_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.L/mata.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.R/mata.R_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mulut
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mulut/mulut_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.L/telinga.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.R/telinga.R_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L/tangan.001.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L/tangan.002.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R/tangan.001.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R/tangan.002.R_end
+        weight: 1
+      - path: citah.bone/badan/badan.002
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004/ekor.003
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004/ekor.003/ekor.005
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004/ekor.003/ekor.005/ekor.005_end
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L/kaki.003.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L/kaki.003.L/kaki.003.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R/kaki.003.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R/kaki.003.R/kaki.003.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: citah.bone|hidung
+      takeName: citah.bone|hidung
+      firstFrame: 0
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: citah
+        weight: 1
+      - path: citah.bone
+        weight: 1
+      - path: citah.bone/badan
+        weight: 1
+      - path: citah.bone/badan/badan.001
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/hidung
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/hidung/hidung_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.L/mata.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.R/mata.R_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mulut
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mulut/mulut_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.L/telinga.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.R/telinga.R_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L/tangan.001.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L/tangan.002.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R/tangan.001.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R/tangan.002.R_end
+        weight: 1
+      - path: citah.bone/badan/badan.002
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004/ekor.003
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004/ekor.003/ekor.005
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004/ekor.003/ekor.005/ekor.005_end
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L/kaki.003.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L/kaki.003.L/kaki.003.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R/kaki.003.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R/kaki.003.R/kaki.003.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: citah.bone|idle
+      takeName: citah.bone|idle
+      firstFrame: 0
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: citah
+        weight: 1
+      - path: citah.bone
+        weight: 1
+      - path: citah.bone/badan
+        weight: 1
+      - path: citah.bone/badan/badan.001
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/hidung
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/hidung/hidung_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.L/mata.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.R/mata.R_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mulut
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mulut/mulut_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.L/telinga.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.R/telinga.R_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L/tangan.001.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L/tangan.002.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R/tangan.001.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R/tangan.002.R_end
+        weight: 1
+      - path: citah.bone/badan/badan.002
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004/ekor.003
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004/ekor.003/ekor.005
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004/ekor.003/ekor.005/ekor.005_end
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L/kaki.003.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L/kaki.003.L/kaki.003.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R/kaki.003.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R/kaki.003.R/kaki.003.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: citah.bone|kaki
+      takeName: citah.bone|kaki
+      firstFrame: 0
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: citah
+        weight: 1
+      - path: citah.bone
+        weight: 1
+      - path: citah.bone/badan
+        weight: 1
+      - path: citah.bone/badan/badan.001
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/hidung
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/hidung/hidung_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.L/mata.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.R/mata.R_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mulut
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mulut/mulut_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.L/telinga.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.R/telinga.R_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L/tangan.001.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L/tangan.002.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R/tangan.001.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R/tangan.002.R_end
+        weight: 1
+      - path: citah.bone/badan/badan.002
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004/ekor.003
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004/ekor.003/ekor.005
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004/ekor.003/ekor.005/ekor.005_end
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L/kaki.003.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L/kaki.003.L/kaki.003.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R/kaki.003.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R/kaki.003.R/kaki.003.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: citah.bone|mata
+      takeName: citah.bone|mata
+      firstFrame: 0
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: citah
+        weight: 1
+      - path: citah.bone
+        weight: 1
+      - path: citah.bone/badan
+        weight: 1
+      - path: citah.bone/badan/badan.001
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/hidung
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/hidung/hidung_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.L/mata.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.R/mata.R_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mulut
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mulut/mulut_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.L/telinga.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.R/telinga.R_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L/tangan.001.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L/tangan.002.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R/tangan.001.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R/tangan.002.R_end
+        weight: 1
+      - path: citah.bone/badan/badan.002
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004/ekor.003
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004/ekor.003/ekor.005
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004/ekor.003/ekor.005/ekor.005_end
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L/kaki.003.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L/kaki.003.L/kaki.003.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R/kaki.003.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R/kaki.003.R/kaki.003.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: citah.bone|mulut
+      takeName: citah.bone|mulut
+      firstFrame: 0
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: citah
+        weight: 1
+      - path: citah.bone
+        weight: 1
+      - path: citah.bone/badan
+        weight: 1
+      - path: citah.bone/badan/badan.001
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/hidung
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/hidung/hidung_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.L/mata.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.R/mata.R_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mulut
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mulut/mulut_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.L/telinga.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.R/telinga.R_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L/tangan.001.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L/tangan.002.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R/tangan.001.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R/tangan.002.R_end
+        weight: 1
+      - path: citah.bone/badan/badan.002
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004/ekor.003
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004/ekor.003/ekor.005
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004/ekor.003/ekor.005/ekor.005_end
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L/kaki.003.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L/kaki.003.L/kaki.003.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R/kaki.003.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R/kaki.003.R/kaki.003.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: citah.bone|tangan
+      takeName: citah.bone|tangan
+      firstFrame: 0
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: citah
+        weight: 1
+      - path: citah.bone
+        weight: 1
+      - path: citah.bone/badan
+        weight: 1
+      - path: citah.bone/badan/badan.001
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/hidung
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/hidung/hidung_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.L/mata.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.R/mata.R_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mulut
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mulut/mulut_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.L/telinga.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.R/telinga.R_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L/tangan.001.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L/tangan.002.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R/tangan.001.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R/tangan.002.R_end
+        weight: 1
+      - path: citah.bone/badan/badan.002
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004/ekor.003
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004/ekor.003/ekor.005
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004/ekor.003/ekor.005/ekor.005_end
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L/kaki.003.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L/kaki.003.L/kaki.003.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R/kaki.003.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R/kaki.003.R/kaki.003.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: citah.bone|telinga
+      takeName: citah.bone|telinga
+      firstFrame: 0
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: citah
+        weight: 1
+      - path: citah.bone
+        weight: 1
+      - path: citah.bone/badan
+        weight: 1
+      - path: citah.bone/badan/badan.001
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/hidung
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/hidung/hidung_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.L/mata.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mata.R/mata.R_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mulut
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/mulut/mulut_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.L/telinga.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/kepala/telinga.R/telinga.R_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L/tangan.001.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.L/tangan.001.L/tangan.002.L/tangan.002.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R/tangan.001.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R
+        weight: 1
+      - path: citah.bone/badan/badan.001/tangan.R/tangan.001.R/tangan.002.R/tangan.002.R_end
+        weight: 1
+      - path: citah.bone/badan/badan.002
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004/ekor.003
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004/ekor.003/ekor.005
+        weight: 1
+      - path: citah.bone/badan/badan.002/ekor/ekor.001/ekor.002/ekor.004/ekor.003/ekor.005/ekor.005_end
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L/kaki.003.L
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.L/kaki.001.L/kaki.002.L/kaki.003.L/kaki.003.L_end
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R/kaki.003.R
+        weight: 1
+      - path: citah.bone/badan/badan.002/kaki.R/kaki.001.R/kaki.002.R/kaki.003.R/kaki.003.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

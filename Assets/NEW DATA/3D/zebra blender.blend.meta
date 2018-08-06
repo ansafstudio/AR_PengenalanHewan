@@ -1,0 +1,2634 @@
+fileFormatVersion: 2
+guid: 2290737f1f5f58b4da2fe46b5f4248b0
+timeCreated: 1533111191
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: belly
+    100002: breast_L
+    100004: breast_R
+    100006: chest
+    100008: DEF-belly
+    100010: DEF-breast_L
+    100012: DEF-breast_R
+    100014: DEF-chest
+    100016: DEF-ear_L
+    100018: DEF-ear_L_001
+    100020: DEF-ear_R
+    100022: DEF-ear_R_001
+    100024: DEF-eye_L
+    100026: DEF-eye_R
+    100028: DEF-f_toe_L
+    100030: DEF-f_toe_R
+    100032: DEF-foot_L
+    100034: DEF-foot_L_001
+    100036: DEF-foot_R
+    100038: DEF-foot_R_001
+    100040: DEF-forearm_L
+    100042: DEF-forearm_L_001
+    100044: DEF-forearm_R
+    100046: DEF-forearm_R_001
+    100048: DEF-hair_base_01
+    100050: DEF-hair_base_02
+    100052: DEF-hair_base_03
+    100054: DEF-hair_base_04
+    100056: DEF-hair_base_05
+    100058: DEF-hair_base_06
+    100060: DEF-hair_top_01
+    100062: DEF-hair_top_02
+    100064: DEF-hair_top_03
+    100066: DEF-hair_top_04
+    100068: DEF-hair_top_05
+    100070: DEF-hair_top_06
+    100072: DEF-hand_L
+    100074: DEF-hand_L_001
+    100076: DEF-hand_R
+    100078: DEF-hand_R_001
+    100080: DEF-jaw
+    100082: DEF-jaw_001
+    100084: DEF-nose_L
+    100086: DEF-nose_R
+    100088: DEF-pelvis
+    100090: DEF-pelvis_L
+    100092: DEF-pelvis_R
+    100094: DEF-r_toe_L
+    100096: DEF-r_toe_R
+    100098: DEF-shin_L
+    100100: DEF-shin_L_001
+    100102: DEF-shin_R
+    100104: DEF-shin_R_001
+    100106: DEF-shoulder_L
+    100108: DEF-shoulder_R
+    100110: DEF-skull_L
+    100112: DEF-skull_R
+    100114: DEF-spine
+    100116: DEF-spine_001
+    100118: DEF-spine_002
+    100120: DEF-spine_003
+    100122: DEF-spine_004
+    100124: DEF-spine_005
+    100126: DEF-spine_006
+    100128: DEF-spine_007
+    100130: DEF-spine_008
+    100132: DEF-spine_009
+    100134: DEF-spine_010
+    100136: DEF-spine_011
+    100138: DEF-spine_012
+    100140: DEF-spine_013
+    100142: DEF-spine_014
+    100144: DEF-spine_015
+    100146: DEF-spine_016
+    100148: DEF-thigh_L
+    100150: DEF-thigh_L_001
+    100152: DEF-thigh_R
+    100154: DEF-thigh_R_001
+    100156: DEF-upper_arm_L
+    100158: DEF-upper_arm_L_001
+    100160: DEF-upper_arm_R
+    100162: DEF-upper_arm_R_001
+    100164: ear_L
+    100166: ear_L_0
+    100168: ear_L_001
+    100170: ear_R
+    100172: ear_R_001
+    100174: eye_L
+    100176: eye_R
+    100178: f_toe_L
+    100180: f_toe_R
+    100182: foot_L
+    100184: foot_R
+    100186: forearm_L
+    100188: forearm_R
+    100190: hair_base_01
+    100192: hair_base_02
+    100194: hair_base_03
+    100196: hair_base_04
+    100198: hair_base_05
+    100200: hair_base_06
+    100202: hair_top_01
+    100204: hair_top_02
+    100206: hair_top_03
+    100208: hair_top_04
+    100210: hair_top_05
+    100212: hair_top_06
+    100214: hand_L
+    100216: hand_R
+    100218: head
+    100220: jaw
+    100222: jaw_001
+    100224: MCH-pivot
+    100226: MCH-ROT-head
+    100228: MCH-ROT-neck
+    100230: MCH-spine_005
+    100232: MCH-spine_006
+    100234: MCH-spine_007
+    100236: MCH-spine_008
+    100238: MCH-spine_009
+    100240: MCH-spine_010
+    100242: metarig
+    100244: neck
+    100246: nose_L
+    100248: nose_R
+    100250: ORG-belly
+    100252: ORG-breast_L
+    100254: ORG-breast_R
+    100256: ORG-chest
+    100258: ORG-ear_L
+    100260: ORG-eye_L
+    100262: ORG-eye_R
+    100264: ORG-nose_L
+    100266: ORG-nose_R
+    100268: ORG-pelvis
+    100270: ORG-pelvis_L
+    100272: ORG-pelvis_R
+    100274: ORG-shoulder_L
+    100276: ORG-shoulder_R
+    100278: ORG-skull_L
+    100280: ORG-skull_R
+    100282: ORG-spine_006
+    100284: ORG-spine_008
+    100286: ORG-spine_009
+    100288: ORG-spine_010
+    100290: ORG-spine_011
+    100292: ORG-spine_012
+    100294: ORG-spine_013
+    100296: ORG-spine_014
+    100298: ORG-spine_015
+    100300: ORG-spine_016
+    100302: pelvis
+    100304: pelvis_L
+    100306: pelvis_R
+    100308: r_toe_L
+    100310: r_toe_R
+    100312: rig
+    100314: root
+    100316: shin_L
+    100318: shin_R
+    100320: shoulder_L
+    100322: shoulder_R
+    100324: skull_L
+    100326: skull_R
+    100328: spine
+    100330: spine_001
+    100332: spine_002
+    100334: spine_003
+    100336: spine_004
+    100338: spine_005
+    100340: spine_006
+    100342: spine_007
+    100344: spine_008
+    100346: spine_009
+    100348: spine_010
+    100350: spine_011
+    100352: spine_012
+    100354: spine_013
+    100356: spine_014
+    100358: spine_015
+    100360: spine_016
+    100362: TANAH
+    100364: thigh_L
+    100366: thigh_R
+    100368: torso
+    100370: tweak_ear_L
+    100372: tweak_spine_006
+    100374: tweak_spine_008
+    100376: tweak_spine_009
+    100378: tweak_spine_010
+    100380: tweak_spine_011
+    100382: upper_arm_L
+    100384: upper_arm_R
+    100386: WGT-rig_belly
+    100388: WGT-rig_breast_L
+    100390: WGT-rig_breast_R
+    100392: WGT-rig_chest
+    100394: WGT-rig_chest_001
+    100396: WGT-rig_ear_L
+    100398: WGT-rig_ear_L_001
+    100400: WGT-rig_ear_R
+    100402: WGT-rig_ear_R_001
+    100404: WGT-rig_eye_L
+    100406: WGT-rig_eye_R
+    100408: WGT-rig_f_toe_L
+    100410: WGT-rig_f_toe_R
+    100412: WGT-rig_f_toe_tweak_L
+    100414: WGT-rig_f_toe_tweak_R
+    100416: WGT-rig_foot_fk_L
+    100418: WGT-rig_foot_fk_R
+    100420: WGT-rig_foot_heel_ik_L
+    100422: WGT-rig_foot_heel_ik_R
+    100424: WGT-rig_foot_ik_L
+    100426: WGT-rig_foot_ik_R
+    100428: WGT-rig_foot_tweak_L
+    100430: WGT-rig_foot_tweak_L_001
+    100432: WGT-rig_foot_tweak_R
+    100434: WGT-rig_foot_tweak_R_001
+    100436: WGT-rig_forearm_fk_L
+    100438: WGT-rig_forearm_fk_R
+    100440: WGT-rig_forearm_tweak_L
+    100442: WGT-rig_forearm_tweak_L_001
+    100444: WGT-rig_forearm_tweak_R
+    100446: WGT-rig_forearm_tweak_R_001
+    100448: WGT-rig_hair_ba_master01
+    100450: WGT-rig_hair_ba_master02
+    100452: WGT-rig_hair_ba_master03
+    100454: WGT-rig_hair_ba_master04
+    100456: WGT-rig_hair_ba_master05
+    100458: WGT-rig_hair_ba_master06
+    100460: WGT-rig_hair_base_002
+    100462: WGT-rig_hair_base_003
+    100464: WGT-rig_hair_base_004
+    100466: WGT-rig_hair_base_005
+    100468: WGT-rig_hair_base_006
+    100470: WGT-rig_hair_base_007
+    100472: WGT-rig_hair_base_01
+    100474: WGT-rig_hair_base_02
+    100476: WGT-rig_hair_base_03
+    100478: WGT-rig_hair_base_04
+    100480: WGT-rig_hair_base_05
+    100482: WGT-rig_hair_base_06
+    100484: WGT-rig_hair_top_01
+    100486: WGT-rig_hair_top_02
+    100488: WGT-rig_hair_top_03
+    100490: WGT-rig_hair_top_04
+    100492: WGT-rig_hair_top_05
+    100494: WGT-rig_hair_top_06
+    100496: WGT-rig_hand_fk_L
+    100498: WGT-rig_hand_fk_R
+    100500: WGT-rig_hand_heel_ik_L
+    100502: WGT-rig_hand_heel_ik_R
+    100504: WGT-rig_hand_ik_L
+    100506: WGT-rig_hand_ik_R
+    100508: WGT-rig_hand_tweak_L
+    100510: WGT-rig_hand_tweak_L_001
+    100512: WGT-rig_hand_tweak_R
+    100514: WGT-rig_hand_tweak_R_001
+    100516: WGT-rig_head
+    100518: WGT-rig_hips
+    100520: WGT-rig_jaw
+    100522: WGT-rig_jaw_001
+    100524: WGT-rig_neck
+    100526: WGT-rig_neck_bend
+    100528: WGT-rig_nose_L
+    100530: WGT-rig_nose_R
+    100532: WGT-rig_pelvis
+    100534: WGT-rig_r_toe_L
+    100536: WGT-rig_r_toe_R
+    100538: WGT-rig_r_toe_tweak_L
+    100540: WGT-rig_r_toe_tweak_R
+    100542: WGT-rig_root
+    100544: WGT-rig_shin_fk_L
+    100546: WGT-rig_shin_fk_R
+    100548: WGT-rig_shin_tweak_L
+    100550: WGT-rig_shin_tweak_L_001
+    100552: WGT-rig_shin_tweak_R
+    100554: WGT-rig_shin_tweak_R_001
+    100556: WGT-rig_shoulder_L
+    100558: WGT-rig_shoulder_R
+    100560: WGT-rig_spine
+    100562: WGT-rig_spine_001
+    100564: WGT-rig_spine_002
+    100566: WGT-rig_spine_003
+    100568: WGT-rig_spine_004
+    100570: WGT-rig_spine_master
+    100572: WGT-rig_thigh_fk_L
+    100574: WGT-rig_thigh_fk_R
+    100576: WGT-rig_thigh_ik_L
+    100578: WGT-rig_thigh_ik_R
+    100580: WGT-rig_thigh_ik_target_L
+    100582: WGT-rig_thigh_ik_target_R
+    100584: WGT-rig_thigh_parent_L
+    100586: WGT-rig_thigh_parent_R
+    100588: WGT-rig_thigh_tweak_L
+    100590: WGT-rig_thigh_tweak_L_001
+    100592: WGT-rig_thigh_tweak_R
+    100594: WGT-rig_thigh_tweak_R_001
+    100596: WGT-rig_torso
+    100598: WGT-rig_tweak_ear_L
+    100600: WGT-rig_tweak_ear_L_001
+    100602: WGT-rig_tweak_ear_L_002
+    100604: WGT-rig_tweak_ear_R
+    100606: WGT-rig_tweak_ear_R_001
+    100608: WGT-rig_tweak_ear_R_002
+    100610: WGT-rig_tweak_jaw
+    100612: WGT-rig_tweak_jaw_001
+    100614: WGT-rig_tweak_jaw_002
+    100616: WGT-rig_tweak_spine
+    100618: WGT-rig_tweak_spine_001
+    100620: WGT-rig_tweak_spine_002
+    100622: WGT-rig_tweak_spine_003
+    100624: WGT-rig_tweak_spine_004
+    100626: WGT-rig_tweak_spine_005
+    100628: WGT-rig_tweak_spine_006
+    100630: WGT-rig_tweak_spine_007
+    100632: WGT-rig_tweak_spine_008
+    100634: WGT-rig_tweak_spine_009
+    100636: WGT-rig_tweak_spine_010
+    100638: WGT-rig_tweak_spine_011
+    100640: WGT-rig_tweak_spine_012
+    100642: WGT-rig_tweak_spine_014
+    100644: WGT-rig_tweak_spine_015
+    100646: WGT-rig_upper_arm_fk_L
+    100648: WGT-rig_upper_arm_fk_R
+    100650: WGT-rig_upper_arm_ik_L
+    100652: WGT-rig_upper_arm_ik_R
+    100654: WGT-rig_upper_arm_ik_target_L
+    100656: WGT-rig_upper_arm_ik_target_R
+    100658: WGT-rig_upper_arm_parent_L
+    100660: WGT-rig_upper_arm_parent_R
+    100662: WGT-rig_upper_arm_tweak_L
+    100664: WGT-rig_upper_arm_tweak_L_001
+    100666: WGT-rig_upper_arm_tweak_R
+    100668: WGT-rig_upper_arm_tweak_R_001
+    100670: WGT-rig_VIS_thigh_ik_pole_L
+    100672: WGT-rig_VIS_thigh_ik_pole_R
+    100674: WGT-rig_VIS_upper_arm_ik_pole_L
+    100676: WGT-rig_VIS_upper_arm_ik_pole_R
+    100678: WGTS_rig
+    100680: ZEBEYE1
+    100682: //RootNode
+    400000: belly
+    400002: breast_L
+    400004: breast_R
+    400006: chest
+    400008: DEF-belly
+    400010: DEF-breast_L
+    400012: DEF-breast_R
+    400014: DEF-chest
+    400016: DEF-ear_L
+    400018: DEF-ear_L_001
+    400020: DEF-ear_R
+    400022: DEF-ear_R_001
+    400024: DEF-eye_L
+    400026: DEF-eye_R
+    400028: DEF-f_toe_L
+    400030: DEF-f_toe_R
+    400032: DEF-foot_L
+    400034: DEF-foot_L_001
+    400036: DEF-foot_R
+    400038: DEF-foot_R_001
+    400040: DEF-forearm_L
+    400042: DEF-forearm_L_001
+    400044: DEF-forearm_R
+    400046: DEF-forearm_R_001
+    400048: DEF-hair_base_01
+    400050: DEF-hair_base_02
+    400052: DEF-hair_base_03
+    400054: DEF-hair_base_04
+    400056: DEF-hair_base_05
+    400058: DEF-hair_base_06
+    400060: DEF-hair_top_01
+    400062: DEF-hair_top_02
+    400064: DEF-hair_top_03
+    400066: DEF-hair_top_04
+    400068: DEF-hair_top_05
+    400070: DEF-hair_top_06
+    400072: DEF-hand_L
+    400074: DEF-hand_L_001
+    400076: DEF-hand_R
+    400078: DEF-hand_R_001
+    400080: DEF-jaw
+    400082: DEF-jaw_001
+    400084: DEF-nose_L
+    400086: DEF-nose_R
+    400088: DEF-pelvis
+    400090: DEF-pelvis_L
+    400092: DEF-pelvis_R
+    400094: DEF-r_toe_L
+    400096: DEF-r_toe_R
+    400098: DEF-shin_L
+    400100: DEF-shin_L_001
+    400102: DEF-shin_R
+    400104: DEF-shin_R_001
+    400106: DEF-shoulder_L
+    400108: DEF-shoulder_R
+    400110: DEF-skull_L
+    400112: DEF-skull_R
+    400114: DEF-spine
+    400116: DEF-spine_001
+    400118: DEF-spine_002
+    400120: DEF-spine_003
+    400122: DEF-spine_004
+    400124: DEF-spine_005
+    400126: DEF-spine_006
+    400128: DEF-spine_007
+    400130: DEF-spine_008
+    400132: DEF-spine_009
+    400134: DEF-spine_010
+    400136: DEF-spine_011
+    400138: DEF-spine_012
+    400140: DEF-spine_013
+    400142: DEF-spine_014
+    400144: DEF-spine_015
+    400146: DEF-spine_016
+    400148: DEF-thigh_L
+    400150: DEF-thigh_L_001
+    400152: DEF-thigh_R
+    400154: DEF-thigh_R_001
+    400156: DEF-upper_arm_L
+    400158: DEF-upper_arm_L_001
+    400160: DEF-upper_arm_R
+    400162: DEF-upper_arm_R_001
+    400164: ear_L
+    400166: ear_L_0
+    400168: ear_L_001
+    400170: ear_R
+    400172: ear_R_001
+    400174: eye_L
+    400176: eye_R
+    400178: f_toe_L
+    400180: f_toe_R
+    400182: foot_L
+    400184: foot_R
+    400186: forearm_L
+    400188: forearm_R
+    400190: hair_base_01
+    400192: hair_base_02
+    400194: hair_base_03
+    400196: hair_base_04
+    400198: hair_base_05
+    400200: hair_base_06
+    400202: hair_top_01
+    400204: hair_top_02
+    400206: hair_top_03
+    400208: hair_top_04
+    400210: hair_top_05
+    400212: hair_top_06
+    400214: hand_L
+    400216: hand_R
+    400218: head
+    400220: jaw
+    400222: jaw_001
+    400224: MCH-pivot
+    400226: MCH-ROT-head
+    400228: MCH-ROT-neck
+    400230: MCH-spine_005
+    400232: MCH-spine_006
+    400234: MCH-spine_007
+    400236: MCH-spine_008
+    400238: MCH-spine_009
+    400240: MCH-spine_010
+    400242: metarig
+    400244: neck
+    400246: nose_L
+    400248: nose_R
+    400250: ORG-belly
+    400252: ORG-breast_L
+    400254: ORG-breast_R
+    400256: ORG-chest
+    400258: ORG-ear_L
+    400260: ORG-eye_L
+    400262: ORG-eye_R
+    400264: ORG-nose_L
+    400266: ORG-nose_R
+    400268: ORG-pelvis
+    400270: ORG-pelvis_L
+    400272: ORG-pelvis_R
+    400274: ORG-shoulder_L
+    400276: ORG-shoulder_R
+    400278: ORG-skull_L
+    400280: ORG-skull_R
+    400282: ORG-spine_006
+    400284: ORG-spine_008
+    400286: ORG-spine_009
+    400288: ORG-spine_010
+    400290: ORG-spine_011
+    400292: ORG-spine_012
+    400294: ORG-spine_013
+    400296: ORG-spine_014
+    400298: ORG-spine_015
+    400300: ORG-spine_016
+    400302: pelvis
+    400304: pelvis_L
+    400306: pelvis_R
+    400308: r_toe_L
+    400310: r_toe_R
+    400312: rig
+    400314: root
+    400316: shin_L
+    400318: shin_R
+    400320: shoulder_L
+    400322: shoulder_R
+    400324: skull_L
+    400326: skull_R
+    400328: spine
+    400330: spine_001
+    400332: spine_002
+    400334: spine_003
+    400336: spine_004
+    400338: spine_005
+    400340: spine_006
+    400342: spine_007
+    400344: spine_008
+    400346: spine_009
+    400348: spine_010
+    400350: spine_011
+    400352: spine_012
+    400354: spine_013
+    400356: spine_014
+    400358: spine_015
+    400360: spine_016
+    400362: TANAH
+    400364: thigh_L
+    400366: thigh_R
+    400368: torso
+    400370: tweak_ear_L
+    400372: tweak_spine_006
+    400374: tweak_spine_008
+    400376: tweak_spine_009
+    400378: tweak_spine_010
+    400380: tweak_spine_011
+    400382: upper_arm_L
+    400384: upper_arm_R
+    400386: WGT-rig_belly
+    400388: WGT-rig_breast_L
+    400390: WGT-rig_breast_R
+    400392: WGT-rig_chest
+    400394: WGT-rig_chest_001
+    400396: WGT-rig_ear_L
+    400398: WGT-rig_ear_L_001
+    400400: WGT-rig_ear_R
+    400402: WGT-rig_ear_R_001
+    400404: WGT-rig_eye_L
+    400406: WGT-rig_eye_R
+    400408: WGT-rig_f_toe_L
+    400410: WGT-rig_f_toe_R
+    400412: WGT-rig_f_toe_tweak_L
+    400414: WGT-rig_f_toe_tweak_R
+    400416: WGT-rig_foot_fk_L
+    400418: WGT-rig_foot_fk_R
+    400420: WGT-rig_foot_heel_ik_L
+    400422: WGT-rig_foot_heel_ik_R
+    400424: WGT-rig_foot_ik_L
+    400426: WGT-rig_foot_ik_R
+    400428: WGT-rig_foot_tweak_L
+    400430: WGT-rig_foot_tweak_L_001
+    400432: WGT-rig_foot_tweak_R
+    400434: WGT-rig_foot_tweak_R_001
+    400436: WGT-rig_forearm_fk_L
+    400438: WGT-rig_forearm_fk_R
+    400440: WGT-rig_forearm_tweak_L
+    400442: WGT-rig_forearm_tweak_L_001
+    400444: WGT-rig_forearm_tweak_R
+    400446: WGT-rig_forearm_tweak_R_001
+    400448: WGT-rig_hair_ba_master01
+    400450: WGT-rig_hair_ba_master02
+    400452: WGT-rig_hair_ba_master03
+    400454: WGT-rig_hair_ba_master04
+    400456: WGT-rig_hair_ba_master05
+    400458: WGT-rig_hair_ba_master06
+    400460: WGT-rig_hair_base_002
+    400462: WGT-rig_hair_base_003
+    400464: WGT-rig_hair_base_004
+    400466: WGT-rig_hair_base_005
+    400468: WGT-rig_hair_base_006
+    400470: WGT-rig_hair_base_007
+    400472: WGT-rig_hair_base_01
+    400474: WGT-rig_hair_base_02
+    400476: WGT-rig_hair_base_03
+    400478: WGT-rig_hair_base_04
+    400480: WGT-rig_hair_base_05
+    400482: WGT-rig_hair_base_06
+    400484: WGT-rig_hair_top_01
+    400486: WGT-rig_hair_top_02
+    400488: WGT-rig_hair_top_03
+    400490: WGT-rig_hair_top_04
+    400492: WGT-rig_hair_top_05
+    400494: WGT-rig_hair_top_06
+    400496: WGT-rig_hand_fk_L
+    400498: WGT-rig_hand_fk_R
+    400500: WGT-rig_hand_heel_ik_L
+    400502: WGT-rig_hand_heel_ik_R
+    400504: WGT-rig_hand_ik_L
+    400506: WGT-rig_hand_ik_R
+    400508: WGT-rig_hand_tweak_L
+    400510: WGT-rig_hand_tweak_L_001
+    400512: WGT-rig_hand_tweak_R
+    400514: WGT-rig_hand_tweak_R_001
+    400516: WGT-rig_head
+    400518: WGT-rig_hips
+    400520: WGT-rig_jaw
+    400522: WGT-rig_jaw_001
+    400524: WGT-rig_neck
+    400526: WGT-rig_neck_bend
+    400528: WGT-rig_nose_L
+    400530: WGT-rig_nose_R
+    400532: WGT-rig_pelvis
+    400534: WGT-rig_r_toe_L
+    400536: WGT-rig_r_toe_R
+    400538: WGT-rig_r_toe_tweak_L
+    400540: WGT-rig_r_toe_tweak_R
+    400542: WGT-rig_root
+    400544: WGT-rig_shin_fk_L
+    400546: WGT-rig_shin_fk_R
+    400548: WGT-rig_shin_tweak_L
+    400550: WGT-rig_shin_tweak_L_001
+    400552: WGT-rig_shin_tweak_R
+    400554: WGT-rig_shin_tweak_R_001
+    400556: WGT-rig_shoulder_L
+    400558: WGT-rig_shoulder_R
+    400560: WGT-rig_spine
+    400562: WGT-rig_spine_001
+    400564: WGT-rig_spine_002
+    400566: WGT-rig_spine_003
+    400568: WGT-rig_spine_004
+    400570: WGT-rig_spine_master
+    400572: WGT-rig_thigh_fk_L
+    400574: WGT-rig_thigh_fk_R
+    400576: WGT-rig_thigh_ik_L
+    400578: WGT-rig_thigh_ik_R
+    400580: WGT-rig_thigh_ik_target_L
+    400582: WGT-rig_thigh_ik_target_R
+    400584: WGT-rig_thigh_parent_L
+    400586: WGT-rig_thigh_parent_R
+    400588: WGT-rig_thigh_tweak_L
+    400590: WGT-rig_thigh_tweak_L_001
+    400592: WGT-rig_thigh_tweak_R
+    400594: WGT-rig_thigh_tweak_R_001
+    400596: WGT-rig_torso
+    400598: WGT-rig_tweak_ear_L
+    400600: WGT-rig_tweak_ear_L_001
+    400602: WGT-rig_tweak_ear_L_002
+    400604: WGT-rig_tweak_ear_R
+    400606: WGT-rig_tweak_ear_R_001
+    400608: WGT-rig_tweak_ear_R_002
+    400610: WGT-rig_tweak_jaw
+    400612: WGT-rig_tweak_jaw_001
+    400614: WGT-rig_tweak_jaw_002
+    400616: WGT-rig_tweak_spine
+    400618: WGT-rig_tweak_spine_001
+    400620: WGT-rig_tweak_spine_002
+    400622: WGT-rig_tweak_spine_003
+    400624: WGT-rig_tweak_spine_004
+    400626: WGT-rig_tweak_spine_005
+    400628: WGT-rig_tweak_spine_006
+    400630: WGT-rig_tweak_spine_007
+    400632: WGT-rig_tweak_spine_008
+    400634: WGT-rig_tweak_spine_009
+    400636: WGT-rig_tweak_spine_010
+    400638: WGT-rig_tweak_spine_011
+    400640: WGT-rig_tweak_spine_012
+    400642: WGT-rig_tweak_spine_014
+    400644: WGT-rig_tweak_spine_015
+    400646: WGT-rig_upper_arm_fk_L
+    400648: WGT-rig_upper_arm_fk_R
+    400650: WGT-rig_upper_arm_ik_L
+    400652: WGT-rig_upper_arm_ik_R
+    400654: WGT-rig_upper_arm_ik_target_L
+    400656: WGT-rig_upper_arm_ik_target_R
+    400658: WGT-rig_upper_arm_parent_L
+    400660: WGT-rig_upper_arm_parent_R
+    400662: WGT-rig_upper_arm_tweak_L
+    400664: WGT-rig_upper_arm_tweak_L_001
+    400666: WGT-rig_upper_arm_tweak_R
+    400668: WGT-rig_upper_arm_tweak_R_001
+    400670: WGT-rig_VIS_thigh_ik_pole_L
+    400672: WGT-rig_VIS_thigh_ik_pole_R
+    400674: WGT-rig_VIS_upper_arm_ik_pole_L
+    400676: WGT-rig_VIS_upper_arm_ik_pole_R
+    400678: WGTS_rig
+    400680: ZEBEYE1
+    400682: //RootNode
+    2300000: TANAH
+    2300002: WGT-rig_belly
+    2300004: WGT-rig_breast_L
+    2300006: WGT-rig_breast_R
+    2300008: WGT-rig_chest
+    2300010: WGT-rig_chest_001
+    2300012: WGT-rig_ear_L
+    2300014: WGT-rig_ear_L_001
+    2300016: WGT-rig_ear_R
+    2300018: WGT-rig_ear_R_001
+    2300020: WGT-rig_eye_L
+    2300022: WGT-rig_eye_R
+    2300024: WGT-rig_f_toe_L
+    2300026: WGT-rig_f_toe_R
+    2300028: WGT-rig_f_toe_tweak_L
+    2300030: WGT-rig_f_toe_tweak_R
+    2300032: WGT-rig_foot_fk_L
+    2300034: WGT-rig_foot_fk_R
+    2300036: WGT-rig_foot_heel_ik_L
+    2300038: WGT-rig_foot_heel_ik_R
+    2300040: WGT-rig_foot_ik_L
+    2300042: WGT-rig_foot_ik_R
+    2300044: WGT-rig_foot_tweak_L
+    2300046: WGT-rig_foot_tweak_L_001
+    2300048: WGT-rig_foot_tweak_R
+    2300050: WGT-rig_foot_tweak_R_001
+    2300052: WGT-rig_forearm_fk_L
+    2300054: WGT-rig_forearm_fk_R
+    2300056: WGT-rig_forearm_tweak_L
+    2300058: WGT-rig_forearm_tweak_L_001
+    2300060: WGT-rig_forearm_tweak_R
+    2300062: WGT-rig_forearm_tweak_R_001
+    2300064: WGT-rig_hair_ba_master01
+    2300066: WGT-rig_hair_ba_master02
+    2300068: WGT-rig_hair_ba_master03
+    2300070: WGT-rig_hair_ba_master04
+    2300072: WGT-rig_hair_ba_master05
+    2300074: WGT-rig_hair_ba_master06
+    2300076: WGT-rig_hair_base_002
+    2300078: WGT-rig_hair_base_003
+    2300080: WGT-rig_hair_base_004
+    2300082: WGT-rig_hair_base_005
+    2300084: WGT-rig_hair_base_006
+    2300086: WGT-rig_hair_base_007
+    2300088: WGT-rig_hair_base_01
+    2300090: WGT-rig_hair_base_02
+    2300092: WGT-rig_hair_base_03
+    2300094: WGT-rig_hair_base_04
+    2300096: WGT-rig_hair_base_05
+    2300098: WGT-rig_hair_base_06
+    2300100: WGT-rig_hair_top_01
+    2300102: WGT-rig_hair_top_02
+    2300104: WGT-rig_hair_top_03
+    2300106: WGT-rig_hair_top_04
+    2300108: WGT-rig_hair_top_05
+    2300110: WGT-rig_hair_top_06
+    2300112: WGT-rig_hand_fk_L
+    2300114: WGT-rig_hand_fk_R
+    2300116: WGT-rig_hand_heel_ik_L
+    2300118: WGT-rig_hand_heel_ik_R
+    2300120: WGT-rig_hand_ik_L
+    2300122: WGT-rig_hand_ik_R
+    2300124: WGT-rig_hand_tweak_L
+    2300126: WGT-rig_hand_tweak_L_001
+    2300128: WGT-rig_hand_tweak_R
+    2300130: WGT-rig_hand_tweak_R_001
+    2300132: WGT-rig_head
+    2300134: WGT-rig_hips
+    2300136: WGT-rig_jaw
+    2300138: WGT-rig_jaw_001
+    2300140: WGT-rig_neck
+    2300142: WGT-rig_neck_bend
+    2300144: WGT-rig_nose_L
+    2300146: WGT-rig_nose_R
+    2300148: WGT-rig_pelvis
+    2300150: WGT-rig_r_toe_L
+    2300152: WGT-rig_r_toe_R
+    2300154: WGT-rig_r_toe_tweak_L
+    2300156: WGT-rig_r_toe_tweak_R
+    2300158: WGT-rig_root
+    2300160: WGT-rig_shin_fk_L
+    2300162: WGT-rig_shin_fk_R
+    2300164: WGT-rig_shin_tweak_L
+    2300166: WGT-rig_shin_tweak_L_001
+    2300168: WGT-rig_shin_tweak_R
+    2300170: WGT-rig_shin_tweak_R_001
+    2300172: WGT-rig_shoulder_L
+    2300174: WGT-rig_shoulder_R
+    2300176: WGT-rig_spine
+    2300178: WGT-rig_spine_001
+    2300180: WGT-rig_spine_002
+    2300182: WGT-rig_spine_003
+    2300184: WGT-rig_spine_004
+    2300186: WGT-rig_spine_master
+    2300188: WGT-rig_thigh_fk_L
+    2300190: WGT-rig_thigh_fk_R
+    2300192: WGT-rig_thigh_ik_L
+    2300194: WGT-rig_thigh_ik_R
+    2300196: WGT-rig_thigh_ik_target_L
+    2300198: WGT-rig_thigh_ik_target_R
+    2300200: WGT-rig_thigh_parent_L
+    2300202: WGT-rig_thigh_parent_R
+    2300204: WGT-rig_thigh_tweak_L
+    2300206: WGT-rig_thigh_tweak_L_001
+    2300208: WGT-rig_thigh_tweak_R
+    2300210: WGT-rig_thigh_tweak_R_001
+    2300212: WGT-rig_torso
+    2300214: WGT-rig_tweak_ear_L
+    2300216: WGT-rig_tweak_ear_L_001
+    2300218: WGT-rig_tweak_ear_L_002
+    2300220: WGT-rig_tweak_ear_R
+    2300222: WGT-rig_tweak_ear_R_001
+    2300224: WGT-rig_tweak_ear_R_002
+    2300226: WGT-rig_tweak_jaw
+    2300228: WGT-rig_tweak_jaw_001
+    2300230: WGT-rig_tweak_jaw_002
+    2300232: WGT-rig_tweak_spine
+    2300234: WGT-rig_tweak_spine_001
+    2300236: WGT-rig_tweak_spine_002
+    2300238: WGT-rig_tweak_spine_003
+    2300240: WGT-rig_tweak_spine_004
+    2300242: WGT-rig_tweak_spine_005
+    2300244: WGT-rig_tweak_spine_006
+    2300246: WGT-rig_tweak_spine_007
+    2300248: WGT-rig_tweak_spine_008
+    2300250: WGT-rig_tweak_spine_009
+    2300252: WGT-rig_tweak_spine_010
+    2300254: WGT-rig_tweak_spine_011
+    2300256: WGT-rig_tweak_spine_012
+    2300258: WGT-rig_tweak_spine_014
+    2300260: WGT-rig_tweak_spine_015
+    2300262: WGT-rig_upper_arm_fk_L
+    2300264: WGT-rig_upper_arm_fk_R
+    2300266: WGT-rig_upper_arm_ik_L
+    2300268: WGT-rig_upper_arm_ik_R
+    2300270: WGT-rig_upper_arm_ik_target_L
+    2300272: WGT-rig_upper_arm_ik_target_R
+    2300274: WGT-rig_upper_arm_parent_L
+    2300276: WGT-rig_upper_arm_parent_R
+    2300278: WGT-rig_upper_arm_tweak_L
+    2300280: WGT-rig_upper_arm_tweak_L_001
+    2300282: WGT-rig_upper_arm_tweak_R
+    2300284: WGT-rig_upper_arm_tweak_R_001
+    2300286: WGT-rig_VIS_thigh_ik_pole_L
+    2300288: WGT-rig_VIS_thigh_ik_pole_R
+    2300290: WGT-rig_VIS_upper_arm_ik_pole_L
+    2300292: WGT-rig_VIS_upper_arm_ik_pole_R
+    2300294: WGTS_rig
+    3300000: TANAH
+    3300002: WGT-rig_belly
+    3300004: WGT-rig_breast_L
+    3300006: WGT-rig_breast_R
+    3300008: WGT-rig_chest
+    3300010: WGT-rig_chest_001
+    3300012: WGT-rig_ear_L
+    3300014: WGT-rig_ear_L_001
+    3300016: WGT-rig_ear_R
+    3300018: WGT-rig_ear_R_001
+    3300020: WGT-rig_eye_L
+    3300022: WGT-rig_eye_R
+    3300024: WGT-rig_f_toe_L
+    3300026: WGT-rig_f_toe_R
+    3300028: WGT-rig_f_toe_tweak_L
+    3300030: WGT-rig_f_toe_tweak_R
+    3300032: WGT-rig_foot_fk_L
+    3300034: WGT-rig_foot_fk_R
+    3300036: WGT-rig_foot_heel_ik_L
+    3300038: WGT-rig_foot_heel_ik_R
+    3300040: WGT-rig_foot_ik_L
+    3300042: WGT-rig_foot_ik_R
+    3300044: WGT-rig_foot_tweak_L
+    3300046: WGT-rig_foot_tweak_L_001
+    3300048: WGT-rig_foot_tweak_R
+    3300050: WGT-rig_foot_tweak_R_001
+    3300052: WGT-rig_forearm_fk_L
+    3300054: WGT-rig_forearm_fk_R
+    3300056: WGT-rig_forearm_tweak_L
+    3300058: WGT-rig_forearm_tweak_L_001
+    3300060: WGT-rig_forearm_tweak_R
+    3300062: WGT-rig_forearm_tweak_R_001
+    3300064: WGT-rig_hair_ba_master01
+    3300066: WGT-rig_hair_ba_master02
+    3300068: WGT-rig_hair_ba_master03
+    3300070: WGT-rig_hair_ba_master04
+    3300072: WGT-rig_hair_ba_master05
+    3300074: WGT-rig_hair_ba_master06
+    3300076: WGT-rig_hair_base_002
+    3300078: WGT-rig_hair_base_003
+    3300080: WGT-rig_hair_base_004
+    3300082: WGT-rig_hair_base_005
+    3300084: WGT-rig_hair_base_006
+    3300086: WGT-rig_hair_base_007
+    3300088: WGT-rig_hair_base_01
+    3300090: WGT-rig_hair_base_02
+    3300092: WGT-rig_hair_base_03
+    3300094: WGT-rig_hair_base_04
+    3300096: WGT-rig_hair_base_05
+    3300098: WGT-rig_hair_base_06
+    3300100: WGT-rig_hair_top_01
+    3300102: WGT-rig_hair_top_02
+    3300104: WGT-rig_hair_top_03
+    3300106: WGT-rig_hair_top_04
+    3300108: WGT-rig_hair_top_05
+    3300110: WGT-rig_hair_top_06
+    3300112: WGT-rig_hand_fk_L
+    3300114: WGT-rig_hand_fk_R
+    3300116: WGT-rig_hand_heel_ik_L
+    3300118: WGT-rig_hand_heel_ik_R
+    3300120: WGT-rig_hand_ik_L
+    3300122: WGT-rig_hand_ik_R
+    3300124: WGT-rig_hand_tweak_L
+    3300126: WGT-rig_hand_tweak_L_001
+    3300128: WGT-rig_hand_tweak_R
+    3300130: WGT-rig_hand_tweak_R_001
+    3300132: WGT-rig_head
+    3300134: WGT-rig_hips
+    3300136: WGT-rig_jaw
+    3300138: WGT-rig_jaw_001
+    3300140: WGT-rig_neck
+    3300142: WGT-rig_neck_bend
+    3300144: WGT-rig_nose_L
+    3300146: WGT-rig_nose_R
+    3300148: WGT-rig_pelvis
+    3300150: WGT-rig_r_toe_L
+    3300152: WGT-rig_r_toe_R
+    3300154: WGT-rig_r_toe_tweak_L
+    3300156: WGT-rig_r_toe_tweak_R
+    3300158: WGT-rig_root
+    3300160: WGT-rig_shin_fk_L
+    3300162: WGT-rig_shin_fk_R
+    3300164: WGT-rig_shin_tweak_L
+    3300166: WGT-rig_shin_tweak_L_001
+    3300168: WGT-rig_shin_tweak_R
+    3300170: WGT-rig_shin_tweak_R_001
+    3300172: WGT-rig_shoulder_L
+    3300174: WGT-rig_shoulder_R
+    3300176: WGT-rig_spine
+    3300178: WGT-rig_spine_001
+    3300180: WGT-rig_spine_002
+    3300182: WGT-rig_spine_003
+    3300184: WGT-rig_spine_004
+    3300186: WGT-rig_spine_master
+    3300188: WGT-rig_thigh_fk_L
+    3300190: WGT-rig_thigh_fk_R
+    3300192: WGT-rig_thigh_ik_L
+    3300194: WGT-rig_thigh_ik_R
+    3300196: WGT-rig_thigh_ik_target_L
+    3300198: WGT-rig_thigh_ik_target_R
+    3300200: WGT-rig_thigh_parent_L
+    3300202: WGT-rig_thigh_parent_R
+    3300204: WGT-rig_thigh_tweak_L
+    3300206: WGT-rig_thigh_tweak_L_001
+    3300208: WGT-rig_thigh_tweak_R
+    3300210: WGT-rig_thigh_tweak_R_001
+    3300212: WGT-rig_torso
+    3300214: WGT-rig_tweak_ear_L
+    3300216: WGT-rig_tweak_ear_L_001
+    3300218: WGT-rig_tweak_ear_L_002
+    3300220: WGT-rig_tweak_ear_R
+    3300222: WGT-rig_tweak_ear_R_001
+    3300224: WGT-rig_tweak_ear_R_002
+    3300226: WGT-rig_tweak_jaw
+    3300228: WGT-rig_tweak_jaw_001
+    3300230: WGT-rig_tweak_jaw_002
+    3300232: WGT-rig_tweak_spine
+    3300234: WGT-rig_tweak_spine_001
+    3300236: WGT-rig_tweak_spine_002
+    3300238: WGT-rig_tweak_spine_003
+    3300240: WGT-rig_tweak_spine_004
+    3300242: WGT-rig_tweak_spine_005
+    3300244: WGT-rig_tweak_spine_006
+    3300246: WGT-rig_tweak_spine_007
+    3300248: WGT-rig_tweak_spine_008
+    3300250: WGT-rig_tweak_spine_009
+    3300252: WGT-rig_tweak_spine_010
+    3300254: WGT-rig_tweak_spine_011
+    3300256: WGT-rig_tweak_spine_012
+    3300258: WGT-rig_tweak_spine_014
+    3300260: WGT-rig_tweak_spine_015
+    3300262: WGT-rig_upper_arm_fk_L
+    3300264: WGT-rig_upper_arm_fk_R
+    3300266: WGT-rig_upper_arm_ik_L
+    3300268: WGT-rig_upper_arm_ik_R
+    3300270: WGT-rig_upper_arm_ik_target_L
+    3300272: WGT-rig_upper_arm_ik_target_R
+    3300274: WGT-rig_upper_arm_parent_L
+    3300276: WGT-rig_upper_arm_parent_R
+    3300278: WGT-rig_upper_arm_tweak_L
+    3300280: WGT-rig_upper_arm_tweak_L_001
+    3300282: WGT-rig_upper_arm_tweak_R
+    3300284: WGT-rig_upper_arm_tweak_R_001
+    3300286: WGT-rig_VIS_thigh_ik_pole_L
+    3300288: WGT-rig_VIS_thigh_ik_pole_R
+    3300290: WGT-rig_VIS_upper_arm_ik_pole_L
+    3300292: WGT-rig_VIS_upper_arm_ik_pole_R
+    3300294: WGTS_rig
+    4300000: WGTS_rig
+    4300002: WGT-rig_root
+    4300004: WGT-rig_nose_R
+    4300006: WGT-rig_nose_L
+    4300008: WGT-rig_eye_R
+    4300010: WGT-rig_eye_L
+    4300012: WGT-rig_tweak_jaw_002
+    4300014: WGT-rig_tweak_jaw_001
+    4300016: WGT-rig_tweak_jaw
+    4300018: WGT-rig_jaw_001
+    4300020: WGT-rig_jaw
+    4300022: WGT-rig_tweak_ear_R_002
+    4300024: WGT-rig_tweak_ear_R_001
+    4300026: WGT-rig_tweak_ear_R
+    4300028: WGT-rig_ear_R_001
+    4300030: WGT-rig_ear_R
+    4300032: WGT-rig_tweak_ear_L_002
+    4300034: WGT-rig_tweak_ear_L_001
+    4300036: WGT-rig_tweak_ear_L
+    4300038: WGT-rig_ear_L_001
+    4300040: WGT-rig_ear_L
+    4300042: WGT-rig_hair_base_007
+    4300044: WGT-rig_hair_ba_master06
+    4300046: WGT-rig_hair_top_06
+    4300048: WGT-rig_hair_base_06
+    4300050: WGT-rig_hair_base_002
+    4300052: WGT-rig_hair_ba_master01
+    4300054: WGT-rig_hair_top_01
+    4300056: WGT-rig_hair_base_01
+    4300058: WGT-rig_hair_base_003
+    4300060: WGT-rig_hair_ba_master02
+    4300062: WGT-rig_hair_top_02
+    4300064: WGT-rig_hair_base_02
+    4300066: WGT-rig_hair_base_004
+    4300068: WGT-rig_hair_ba_master03
+    4300070: WGT-rig_hair_top_03
+    4300072: WGT-rig_hair_base_03
+    4300074: WGT-rig_hair_base_005
+    4300076: WGT-rig_hair_ba_master04
+    4300078: WGT-rig_hair_top_04
+    4300080: WGT-rig_hair_base_04
+    4300082: WGT-rig_f_toe_R
+    4300084: WGT-rig_hand_heel_ik_R
+    4300086: WGT-rig_hand_ik_R
+    4300088: WGT-rig_hand_fk_R
+    4300090: WGT-rig_forearm_fk_R
+    4300092: WGT-rig_upper_arm_fk_R
+    4300094: WGT-rig_VIS_upper_arm_ik_pole_R
+    4300096: WGT-rig_upper_arm_ik_target_R
+    4300098: WGT-rig_upper_arm_ik_R
+    4300100: WGT-rig_f_toe_tweak_R
+    4300102: WGT-rig_hand_tweak_R_001
+    4300104: WGT-rig_hand_tweak_R
+    4300106: WGT-rig_forearm_tweak_R_001
+    4300108: WGT-rig_forearm_tweak_R
+    4300110: WGT-rig_upper_arm_tweak_R_001
+    4300112: WGT-rig_upper_arm_tweak_R
+    4300114: WGT-rig_upper_arm_parent_R
+    4300116: WGT-rig_f_toe_L
+    4300118: WGT-rig_hand_heel_ik_L
+    4300120: WGT-rig_hand_ik_L
+    4300122: WGT-rig_hand_fk_L
+    4300124: WGT-rig_forearm_fk_L
+    4300126: WGT-rig_upper_arm_fk_L
+    4300128: WGT-rig_VIS_upper_arm_ik_pole_L
+    4300130: WGT-rig_upper_arm_ik_target_L
+    4300132: WGT-rig_upper_arm_ik_L
+    4300134: WGT-rig_f_toe_tweak_L
+    4300136: WGT-rig_hand_tweak_L_001
+    4300138: WGT-rig_hand_tweak_L
+    4300140: WGT-rig_forearm_tweak_L_001
+    4300142: WGT-rig_forearm_tweak_L
+    4300144: WGT-rig_upper_arm_tweak_L_001
+    4300146: WGT-rig_upper_arm_tweak_L
+    4300148: WGT-rig_upper_arm_parent_L
+    4300150: WGT-rig_hair_base_006
+    4300152: WGT-rig_hair_ba_master05
+    4300154: WGT-rig_hair_top_05
+    4300156: WGT-rig_hair_base_05
+    4300158: WGT-rig_shoulder_R
+    4300160: WGT-rig_shoulder_L
+    4300162: WGT-rig_chest_001
+    4300164: WGT-rig_breast_R
+    4300166: WGT-rig_breast_L
+    4300168: WGT-rig_belly
+    4300170: WGT-rig_r_toe_R
+    4300172: WGT-rig_foot_heel_ik_R
+    4300174: WGT-rig_foot_ik_R
+    4300176: WGT-rig_foot_fk_R
+    4300178: WGT-rig_shin_fk_R
+    4300180: WGT-rig_thigh_fk_R
+    4300182: WGT-rig_VIS_thigh_ik_pole_R
+    4300184: WGT-rig_thigh_ik_target_R
+    4300186: WGT-rig_thigh_ik_R
+    4300188: WGT-rig_r_toe_tweak_R
+    4300190: WGT-rig_foot_tweak_R_001
+    4300192: WGT-rig_foot_tweak_R
+    4300194: WGT-rig_shin_tweak_R_001
+    4300196: WGT-rig_shin_tweak_R
+    4300198: WGT-rig_thigh_tweak_R_001
+    4300200: WGT-rig_thigh_tweak_R
+    4300202: WGT-rig_thigh_parent_R
+    4300204: WGT-rig_r_toe_L
+    4300206: WGT-rig_foot_heel_ik_L
+    4300208: WGT-rig_foot_ik_L
+    4300210: WGT-rig_foot_fk_L
+    4300212: WGT-rig_shin_fk_L
+    4300214: WGT-rig_thigh_fk_L
+    4300216: WGT-rig_VIS_thigh_ik_pole_L
+    4300218: WGT-rig_thigh_ik_target_L
+    4300220: WGT-rig_thigh_ik_L
+    4300222: WGT-rig_r_toe_tweak_L
+    4300224: WGT-rig_foot_tweak_L_001
+    4300226: WGT-rig_foot_tweak_L
+    4300228: WGT-rig_shin_tweak_L_001
+    4300230: WGT-rig_shin_tweak_L
+    4300232: WGT-rig_thigh_tweak_L_001
+    4300234: WGT-rig_thigh_tweak_L
+    4300236: WGT-rig_thigh_parent_L
+    4300238: WGT-rig_pelvis
+    4300240: WGT-rig_tweak_spine_004
+    4300242: WGT-rig_tweak_spine_003
+    4300244: WGT-rig_tweak_spine_002
+    4300246: WGT-rig_tweak_spine_001
+    4300248: WGT-rig_tweak_spine
+    4300250: WGT-rig_tweak_spine_007
+    4300252: WGT-rig_tweak_spine_006
+    4300254: WGT-rig_tweak_spine_005
+    4300256: WGT-rig_tweak_spine_010
+    4300258: WGT-rig_tweak_spine_009
+    4300260: WGT-rig_tweak_spine_008
+    4300262: WGT-rig_tweak_spine_015
+    4300264: WGT-rig_tweak_spine_014
+    4300266: WGT-rig_tweak_spine_012
+    4300268: WGT-rig_tweak_spine_011
+    4300270: WGT-rig_head
+    4300272: WGT-rig_neck_bend
+    4300274: WGT-rig_neck
+    4300276: WGT-rig_spine_004
+    4300278: WGT-rig_spine_003
+    4300280: WGT-rig_spine_002
+    4300282: WGT-rig_spine_001
+    4300284: WGT-rig_spine
+    4300286: WGT-rig_hips
+    4300288: WGT-rig_chest
+    4300290: WGT-rig_spine_master
+    4300292: WGT-rig_torso
+    4300294: ZEBEYE1
+    4300296: TANAH
+    7400000: Default Take
+    7400002: rigAction
+    9500000: //RootNode
+    13700000: ZEBEYE1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: metarig
+        weight: 1
+      - path: metarig/spine
+        weight: 1
+      - path: metarig/spine/spine_001
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/pelvis
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/pelvis_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/pelvis_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/belly
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/breast_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/breast_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/chest
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/shoulder_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/shoulder_L/upper_arm_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/shoulder_L/upper_arm_L/forearm_L/hand_L/f_toe_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/shoulder_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/shoulder_R/upper_arm_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/shoulder_R/upper_arm_R/forearm_R/hand_R/f_toe_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/hair_base_05
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/hair_base_05/hair_top_05
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/hair_base_04
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/hair_base_04/hair_top_04
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/hair_base_03
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/hair_base_03/hair_top_03
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/hair_base_02
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/hair_base_02/hair_top_02
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/hair_base_01
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/hair_base_01/hair_top_01
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/hair_base_06
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/hair_base_06/hair_top_06
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016/ear_L_0
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016/ear_L_0/ear_L_001
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016/ear_L_0/eye_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016/ear_L_0/eye_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016/ear_L_0/nose_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016/ear_L_0/nose_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016/ear_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016/ear_R/ear_R_001
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016/jaw
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016/jaw/jaw_001
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016/spine_013
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016/spine_013/skull_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016/spine_013/skull_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/thigh_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/thigh_L/shin_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/thigh_L/shin_L/foot_L/r_toe_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/thigh_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/thigh_R/shin_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/thigh_R/shin_R/foot_R/r_toe_R
+        weight: 1
+      - path: rig
+        weight: 1
+      - path: rig/root
+        weight: 1
+      - path: rig/root/DEF-spine
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002/DEF-spine_003
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002/DEF-spine_003/DEF-spine_004
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002/DEF-spine_003/DEF-spine_004/DEF-spine_005
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002/DEF-spine_003/DEF-spine_004/DEF-spine_005/DEF-spine_006
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002/DEF-spine_003/DEF-spine_004/DEF-spine_005/DEF-spine_006/DEF-spine_007
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002/DEF-spine_003/DEF-spine_004/DEF-spine_005/DEF-spine_006/DEF-spine_007/DEF-spine_008
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002/DEF-spine_003/DEF-spine_004/DEF-spine_005/DEF-spine_006/DEF-spine_007/DEF-spine_008/DEF-spine_009
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002/DEF-spine_003/DEF-spine_004/DEF-spine_005/DEF-spine_006/DEF-spine_007/DEF-spine_008/DEF-spine_009/DEF-spine_010
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002/DEF-spine_003/DEF-spine_004/DEF-spine_005/DEF-spine_006/DEF-spine_007/DEF-spine_008/DEF-spine_009/DEF-spine_010/DEF-spine_011
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002/DEF-spine_003/DEF-spine_004/DEF-spine_005/DEF-spine_006/DEF-spine_007/DEF-spine_008/DEF-spine_009/DEF-spine_010/DEF-spine_011/DEF-spine_012
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002/DEF-spine_003/DEF-spine_004/DEF-spine_005/DEF-spine_006/DEF-spine_007/DEF-spine_008/DEF-spine_009/DEF-spine_010/DEF-spine_011/DEF-spine_012/DEF-spine_014
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002/DEF-spine_003/DEF-spine_004/DEF-spine_005/DEF-spine_006/DEF-spine_007/DEF-spine_008/DEF-spine_009/DEF-spine_010/DEF-spine_011/DEF-spine_012/DEF-spine_014/DEF-spine_015
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002/DEF-spine_003/DEF-spine_004/DEF-spine_005/DEF-spine_006/DEF-spine_007/DEF-spine_008/DEF-spine_009/DEF-spine_010/DEF-spine_011/DEF-spine_012/DEF-spine_014/DEF-spine_015/DEF-spine_016
+        weight: 1
+      - path: rig/root/torso
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_L/DEF-thigh_L_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_L/DEF-thigh_L_001/DEF-shin_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_L/DEF-thigh_L_001/DEF-shin_L/DEF-shin_L_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_L/DEF-thigh_L_001/DEF-shin_L/DEF-shin_L_001/DEF-foot_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_L/DEF-thigh_L_001/DEF-shin_L/DEF-shin_L_001/DEF-foot_L/DEF-foot_L_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_L/DEF-thigh_L_001/DEF-shin_L/DEF-shin_L_001/DEF-foot_L/DEF-foot_L_001/DEF-r_toe_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_R/DEF-thigh_R_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_R/DEF-thigh_R_001/DEF-shin_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_R/DEF-thigh_R_001/DEF-shin_R/DEF-shin_R_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_R/DEF-thigh_R_001/DEF-shin_R/DEF-shin_R_001/DEF-foot_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_R/DEF-thigh_R_001/DEF-shin_R/DEF-shin_R_001/DEF-foot_R/DEF-foot_R_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_R/DEF-thigh_R_001/DEF-shin_R/DEF-shin_R_001/DEF-foot_R/DEF-foot_R_001/DEF-r_toe_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/ORG-pelvis
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/ORG-pelvis/DEF-pelvis
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/ORG-pelvis_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/ORG-pelvis_L/DEF-pelvis_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/ORG-pelvis_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/ORG-pelvis_R/DEF-pelvis_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-pivot
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-pivot/tweak_spine_008
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-pivot/tweak_spine_008/ORG-spine_008
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-pivot/tweak_spine_008/ORG-spine_008/ORG-belly
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-pivot/tweak_spine_008/ORG-spine_008/ORG-belly/DEF-belly
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/DEF-ear_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/DEF-ear_L/DEF-ear_L_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/DEF-ear_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/DEF-ear_R/DEF-ear_R_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/DEF-jaw
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/DEF-jaw/DEF-jaw_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ear_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ear_L/tweak_ear_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ear_L/tweak_ear_L/ORG-ear_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ear_L/tweak_ear_L/ORG-ear_L/ORG-eye_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ear_L/tweak_ear_L/ORG-ear_L/ORG-eye_L/DEF-eye_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ear_L/tweak_ear_L/ORG-ear_L/ORG-eye_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ear_L/tweak_ear_L/ORG-ear_L/ORG-eye_R/DEF-eye_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ear_L/tweak_ear_L/ORG-ear_L/ORG-nose_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ear_L/tweak_ear_L/ORG-ear_L/ORG-nose_L/DEF-nose_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ear_L/tweak_ear_L/ORG-ear_L/ORG-nose_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ear_L/tweak_ear_L/ORG-ear_L/ORG-nose_R/DEF-nose_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ORG-spine_013
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ORG-spine_013/DEF-spine_013
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ORG-spine_013/ORG-skull_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ORG-spine_013/ORG-skull_L/DEF-skull_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ORG-spine_013/ORG-skull_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ORG-spine_013/ORG-skull_R/DEF-skull_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011/DEF-hair_base_04
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011/DEF-hair_base_04/DEF-hair_top_04
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011/ORG-spine_012
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011/ORG-spine_012/DEF-hair_base_03
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011/ORG-spine_012/DEF-hair_base_03/DEF-hair_top_03
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011/ORG-spine_012/ORG-spine_014
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011/ORG-spine_012/ORG-spine_014/DEF-hair_base_02
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011/ORG-spine_012/ORG-spine_014/DEF-hair_base_02/DEF-hair_top_02
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011/ORG-spine_012/ORG-spine_014/ORG-spine_015
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011/ORG-spine_012/ORG-spine_014/ORG-spine_015/DEF-hair_base_01
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011/ORG-spine_012/ORG-spine_014/ORG-spine_015/DEF-hair_base_01/DEF-hair_top_01
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011/ORG-spine_012/ORG-spine_014/ORG-spine_015/DEF-hair_base_06
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011/ORG-spine_012/ORG-spine_014/ORG-spine_015/DEF-hair_base_06/DEF-hair_top_06
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/tweak_spine_010
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/tweak_spine_010/ORG-spine_010
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/tweak_spine_010/ORG-spine_010/DEF-hair_base_05
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/tweak_spine_010/ORG-spine_010/DEF-hair_base_05/DEF-hair_top_05
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-breast_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-breast_L/DEF-breast_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-breast_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-breast_R/DEF-breast_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-chest
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-chest/DEF-chest
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_L/DEF-shoulder_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_L/DEF-upper_arm_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_L/DEF-upper_arm_L/DEF-upper_arm_L_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_L/DEF-upper_arm_L/DEF-upper_arm_L_001/DEF-forearm_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_L/DEF-upper_arm_L/DEF-upper_arm_L_001/DEF-forearm_L/DEF-forearm_L_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_L/DEF-upper_arm_L/DEF-upper_arm_L_001/DEF-forearm_L/DEF-forearm_L_001/DEF-hand_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_L/DEF-upper_arm_L/DEF-upper_arm_L_001/DEF-forearm_L/DEF-forearm_L_001/DEF-hand_L/DEF-hand_L_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_L/DEF-upper_arm_L/DEF-upper_arm_L_001/DEF-forearm_L/DEF-forearm_L_001/DEF-hand_L/DEF-hand_L_001/DEF-f_toe_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_R/DEF-shoulder_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_R/DEF-upper_arm_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_R/DEF-upper_arm_R/DEF-upper_arm_R_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_R/DEF-upper_arm_R/DEF-upper_arm_R_001/DEF-forearm_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_R/DEF-upper_arm_R/DEF-upper_arm_R_001/DEF-forearm_R/DEF-forearm_R_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_R/DEF-upper_arm_R/DEF-upper_arm_R_001/DEF-forearm_R/DEF-forearm_R_001/DEF-hand_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_R/DEF-upper_arm_R/DEF-upper_arm_R_001/DEF-forearm_R/DEF-forearm_R_001/DEF-hand_R/DEF-hand_R_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_R/DEF-upper_arm_R/DEF-upper_arm_R_001/DEF-forearm_R/DEF-forearm_R_001/DEF-hand_R/DEF-hand_R_001/DEF-f_toe_R
+        weight: 1
+      - path: TANAH
+        weight: 1
+      - path: WGTS_rig
+        weight: 1
+      - path: WGTS_rig/WGT-rig_belly
+        weight: 1
+      - path: WGTS_rig/WGT-rig_breast_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_breast_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_chest
+        weight: 1
+      - path: WGTS_rig/WGT-rig_chest_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_ear_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_ear_L_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_ear_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_ear_R_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_eye_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_eye_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_f_toe_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_f_toe_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_f_toe_tweak_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_f_toe_tweak_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_foot_fk_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_foot_fk_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_foot_heel_ik_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_foot_heel_ik_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_foot_ik_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_foot_ik_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_foot_tweak_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_foot_tweak_L_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_foot_tweak_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_foot_tweak_R_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_forearm_fk_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_forearm_fk_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_forearm_tweak_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_forearm_tweak_L_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_forearm_tweak_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_forearm_tweak_R_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_ba_master01
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_ba_master02
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_ba_master03
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_ba_master04
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_ba_master05
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_ba_master06
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_base_01
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_base_002
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_base_02
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_base_003
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_base_03
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_base_004
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_base_04
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_base_005
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_base_05
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_base_006
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_base_06
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_base_007
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_top_01
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_top_02
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_top_03
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_top_04
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_top_05
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_top_06
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hand_fk_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hand_fk_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hand_heel_ik_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hand_heel_ik_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hand_ik_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hand_ik_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hand_tweak_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hand_tweak_L_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hand_tweak_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hand_tweak_R_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_head
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hips
+        weight: 1
+      - path: WGTS_rig/WGT-rig_jaw
+        weight: 1
+      - path: WGTS_rig/WGT-rig_jaw_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_neck
+        weight: 1
+      - path: WGTS_rig/WGT-rig_neck_bend
+        weight: 1
+      - path: WGTS_rig/WGT-rig_nose_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_nose_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_pelvis
+        weight: 1
+      - path: WGTS_rig/WGT-rig_r_toe_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_r_toe_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_r_toe_tweak_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_r_toe_tweak_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_root
+        weight: 1
+      - path: WGTS_rig/WGT-rig_shin_fk_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_shin_fk_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_shin_tweak_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_shin_tweak_L_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_shin_tweak_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_shin_tweak_R_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_shoulder_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_shoulder_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_spine
+        weight: 1
+      - path: WGTS_rig/WGT-rig_spine_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_spine_002
+        weight: 1
+      - path: WGTS_rig/WGT-rig_spine_003
+        weight: 1
+      - path: WGTS_rig/WGT-rig_spine_004
+        weight: 1
+      - path: WGTS_rig/WGT-rig_spine_master
+        weight: 1
+      - path: WGTS_rig/WGT-rig_thigh_fk_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_thigh_fk_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_thigh_ik_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_thigh_ik_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_thigh_ik_target_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_thigh_ik_target_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_thigh_parent_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_thigh_parent_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_thigh_tweak_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_thigh_tweak_L_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_thigh_tweak_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_thigh_tweak_R_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_torso
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_ear_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_ear_L_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_ear_L_002
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_ear_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_ear_R_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_ear_R_002
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_jaw
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_jaw_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_jaw_002
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_002
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_003
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_004
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_005
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_006
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_007
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_008
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_009
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_010
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_011
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_012
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_014
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_015
+        weight: 1
+      - path: WGTS_rig/WGT-rig_upper_arm_fk_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_upper_arm_fk_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_upper_arm_ik_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_upper_arm_ik_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_upper_arm_ik_target_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_upper_arm_ik_target_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_upper_arm_parent_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_upper_arm_parent_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_upper_arm_tweak_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_upper_arm_tweak_L_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_upper_arm_tweak_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_upper_arm_tweak_R_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_VIS_thigh_ik_pole_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_VIS_thigh_ik_pole_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_VIS_upper_arm_ik_pole_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_VIS_upper_arm_ik_pole_R
+        weight: 1
+      - path: ZEBEYE1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rigAction
+      takeName: rigAction
+      firstFrame: 0
+      lastFrame: 65
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: metarig
+        weight: 1
+      - path: metarig/spine
+        weight: 1
+      - path: metarig/spine/spine_001
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/pelvis
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/pelvis_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/pelvis_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/belly
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/breast_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/breast_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/chest
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/shoulder_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/shoulder_L/upper_arm_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/shoulder_L/upper_arm_L/forearm_L/hand_L/f_toe_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/shoulder_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/shoulder_R/upper_arm_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/shoulder_R/upper_arm_R/forearm_R/hand_R/f_toe_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/hair_base_05
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/hair_base_05/hair_top_05
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/hair_base_04
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/hair_base_04/hair_top_04
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/hair_base_03
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/hair_base_03/hair_top_03
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/hair_base_02
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/hair_base_02/hair_top_02
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/hair_base_01
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/hair_base_01/hair_top_01
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/hair_base_06
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/hair_base_06/hair_top_06
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016/ear_L_0
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016/ear_L_0/ear_L_001
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016/ear_L_0/eye_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016/ear_L_0/eye_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016/ear_L_0/nose_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016/ear_L_0/nose_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016/ear_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016/ear_R/ear_R_001
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016/jaw
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016/jaw/jaw_001
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016/spine_013
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016/spine_013/skull_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/spine_007/spine_008/spine_009/spine_010/spine_011/spine_012/spine_014/spine_015/spine_016/spine_013/skull_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/thigh_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/thigh_L/shin_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/thigh_L/shin_L/foot_L/r_toe_L
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/thigh_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/thigh_R/shin_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: metarig/spine/spine_001/spine_002/spine_003/spine_004/spine_005/spine_006/thigh_R/shin_R/foot_R/r_toe_R
+        weight: 1
+      - path: rig
+        weight: 1
+      - path: rig/root
+        weight: 1
+      - path: rig/root/DEF-spine
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002/DEF-spine_003
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002/DEF-spine_003/DEF-spine_004
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002/DEF-spine_003/DEF-spine_004/DEF-spine_005
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002/DEF-spine_003/DEF-spine_004/DEF-spine_005/DEF-spine_006
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002/DEF-spine_003/DEF-spine_004/DEF-spine_005/DEF-spine_006/DEF-spine_007
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002/DEF-spine_003/DEF-spine_004/DEF-spine_005/DEF-spine_006/DEF-spine_007/DEF-spine_008
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002/DEF-spine_003/DEF-spine_004/DEF-spine_005/DEF-spine_006/DEF-spine_007/DEF-spine_008/DEF-spine_009
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002/DEF-spine_003/DEF-spine_004/DEF-spine_005/DEF-spine_006/DEF-spine_007/DEF-spine_008/DEF-spine_009/DEF-spine_010
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002/DEF-spine_003/DEF-spine_004/DEF-spine_005/DEF-spine_006/DEF-spine_007/DEF-spine_008/DEF-spine_009/DEF-spine_010/DEF-spine_011
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002/DEF-spine_003/DEF-spine_004/DEF-spine_005/DEF-spine_006/DEF-spine_007/DEF-spine_008/DEF-spine_009/DEF-spine_010/DEF-spine_011/DEF-spine_012
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002/DEF-spine_003/DEF-spine_004/DEF-spine_005/DEF-spine_006/DEF-spine_007/DEF-spine_008/DEF-spine_009/DEF-spine_010/DEF-spine_011/DEF-spine_012/DEF-spine_014
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002/DEF-spine_003/DEF-spine_004/DEF-spine_005/DEF-spine_006/DEF-spine_007/DEF-spine_008/DEF-spine_009/DEF-spine_010/DEF-spine_011/DEF-spine_012/DEF-spine_014/DEF-spine_015
+        weight: 1
+      - path: rig/root/DEF-spine/DEF-spine_001/DEF-spine_002/DEF-spine_003/DEF-spine_004/DEF-spine_005/DEF-spine_006/DEF-spine_007/DEF-spine_008/DEF-spine_009/DEF-spine_010/DEF-spine_011/DEF-spine_012/DEF-spine_014/DEF-spine_015/DEF-spine_016
+        weight: 1
+      - path: rig/root/torso
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_L/DEF-thigh_L_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_L/DEF-thigh_L_001/DEF-shin_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_L/DEF-thigh_L_001/DEF-shin_L/DEF-shin_L_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_L/DEF-thigh_L_001/DEF-shin_L/DEF-shin_L_001/DEF-foot_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_L/DEF-thigh_L_001/DEF-shin_L/DEF-shin_L_001/DEF-foot_L/DEF-foot_L_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_L/DEF-thigh_L_001/DEF-shin_L/DEF-shin_L_001/DEF-foot_L/DEF-foot_L_001/DEF-r_toe_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_R/DEF-thigh_R_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_R/DEF-thigh_R_001/DEF-shin_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_R/DEF-thigh_R_001/DEF-shin_R/DEF-shin_R_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_R/DEF-thigh_R_001/DEF-shin_R/DEF-shin_R_001/DEF-foot_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_R/DEF-thigh_R_001/DEF-shin_R/DEF-shin_R_001/DEF-foot_R/DEF-foot_R_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/DEF-thigh_R/DEF-thigh_R_001/DEF-shin_R/DEF-shin_R_001/DEF-foot_R/DEF-foot_R_001/DEF-r_toe_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/ORG-pelvis
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/ORG-pelvis/DEF-pelvis
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/ORG-pelvis_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/ORG-pelvis_L/DEF-pelvis_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/ORG-pelvis_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_007/MCH-spine_006/MCH-spine_005/tweak_spine_006/ORG-spine_006/ORG-pelvis_R/DEF-pelvis_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-pivot
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-pivot/tweak_spine_008
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-pivot/tweak_spine_008/ORG-spine_008
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-pivot/tweak_spine_008/ORG-spine_008/ORG-belly
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-pivot/tweak_spine_008/ORG-spine_008/ORG-belly/DEF-belly
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/DEF-ear_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/DEF-ear_L/DEF-ear_L_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/DEF-ear_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/DEF-ear_R/DEF-ear_R_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/DEF-jaw
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/DEF-jaw/DEF-jaw_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ear_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ear_L/tweak_ear_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ear_L/tweak_ear_L/ORG-ear_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ear_L/tweak_ear_L/ORG-ear_L/ORG-eye_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ear_L/tweak_ear_L/ORG-ear_L/ORG-eye_L/DEF-eye_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ear_L/tweak_ear_L/ORG-ear_L/ORG-eye_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ear_L/tweak_ear_L/ORG-ear_L/ORG-eye_R/DEF-eye_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ear_L/tweak_ear_L/ORG-ear_L/ORG-nose_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ear_L/tweak_ear_L/ORG-ear_L/ORG-nose_L/DEF-nose_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ear_L/tweak_ear_L/ORG-ear_L/ORG-nose_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ear_L/tweak_ear_L/ORG-ear_L/ORG-nose_R/DEF-nose_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ORG-spine_013
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ORG-spine_013/DEF-spine_013
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ORG-spine_013/ORG-skull_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ORG-spine_013/ORG-skull_L/DEF-skull_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ORG-spine_013/ORG-skull_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/MCH-ROT-head/head/ORG-spine_016/ORG-spine_013/ORG-skull_R/DEF-skull_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011/DEF-hair_base_04
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011/DEF-hair_base_04/DEF-hair_top_04
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011/ORG-spine_012
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011/ORG-spine_012/DEF-hair_base_03
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011/ORG-spine_012/DEF-hair_base_03/DEF-hair_top_03
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011/ORG-spine_012/ORG-spine_014
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011/ORG-spine_012/ORG-spine_014/DEF-hair_base_02
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011/ORG-spine_012/ORG-spine_014/DEF-hair_base_02/DEF-hair_top_02
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011/ORG-spine_012/ORG-spine_014/ORG-spine_015
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011/ORG-spine_012/ORG-spine_014/ORG-spine_015/DEF-hair_base_01
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011/ORG-spine_012/ORG-spine_014/ORG-spine_015/DEF-hair_base_01/DEF-hair_top_01
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011/ORG-spine_012/ORG-spine_014/ORG-spine_015/DEF-hair_base_06
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/MCH-ROT-neck/neck/tweak_spine_011/ORG-spine_011/ORG-spine_012/ORG-spine_014/ORG-spine_015/DEF-hair_base_06/DEF-hair_top_06
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/tweak_spine_010
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/tweak_spine_010/ORG-spine_010
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/tweak_spine_010/ORG-spine_010/DEF-hair_base_05
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/MCH-spine_010/tweak_spine_010/ORG-spine_010/DEF-hair_base_05/DEF-hair_top_05
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-breast_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-breast_L/DEF-breast_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-breast_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-breast_R/DEF-breast_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-chest
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-chest/DEF-chest
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_L/DEF-shoulder_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_L/DEF-upper_arm_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_L/DEF-upper_arm_L/DEF-upper_arm_L_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_L/DEF-upper_arm_L/DEF-upper_arm_L_001/DEF-forearm_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_L/DEF-upper_arm_L/DEF-upper_arm_L_001/DEF-forearm_L/DEF-forearm_L_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_L/DEF-upper_arm_L/DEF-upper_arm_L_001/DEF-forearm_L/DEF-forearm_L_001/DEF-hand_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_L/DEF-upper_arm_L/DEF-upper_arm_L_001/DEF-forearm_L/DEF-forearm_L_001/DEF-hand_L/DEF-hand_L_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_L/DEF-upper_arm_L/DEF-upper_arm_L_001/DEF-forearm_L/DEF-forearm_L_001/DEF-hand_L/DEF-hand_L_001/DEF-f_toe_L
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_R/DEF-shoulder_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_R/DEF-upper_arm_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_R/DEF-upper_arm_R/DEF-upper_arm_R_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_R/DEF-upper_arm_R/DEF-upper_arm_R_001/DEF-forearm_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_R/DEF-upper_arm_R/DEF-upper_arm_R_001/DEF-forearm_R/DEF-forearm_R_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_R/DEF-upper_arm_R/DEF-upper_arm_R_001/DEF-forearm_R/DEF-forearm_R_001/DEF-hand_R
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_R/DEF-upper_arm_R/DEF-upper_arm_R_001/DEF-forearm_R/DEF-forearm_R_001/DEF-hand_R/DEF-hand_R_001
+        weight: 1
+      - path: rig/root/torso/MCH-spine_008/MCH-spine_009/tweak_spine_009/ORG-spine_009/ORG-shoulder_R/DEF-upper_arm_R/DEF-upper_arm_R_001/DEF-forearm_R/DEF-forearm_R_001/DEF-hand_R/DEF-hand_R_001/DEF-f_toe_R
+        weight: 1
+      - path: TANAH
+        weight: 1
+      - path: WGTS_rig
+        weight: 1
+      - path: WGTS_rig/WGT-rig_belly
+        weight: 1
+      - path: WGTS_rig/WGT-rig_breast_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_breast_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_chest
+        weight: 1
+      - path: WGTS_rig/WGT-rig_chest_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_ear_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_ear_L_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_ear_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_ear_R_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_eye_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_eye_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_f_toe_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_f_toe_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_f_toe_tweak_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_f_toe_tweak_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_foot_fk_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_foot_fk_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_foot_heel_ik_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_foot_heel_ik_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_foot_ik_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_foot_ik_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_foot_tweak_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_foot_tweak_L_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_foot_tweak_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_foot_tweak_R_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_forearm_fk_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_forearm_fk_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_forearm_tweak_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_forearm_tweak_L_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_forearm_tweak_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_forearm_tweak_R_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_ba_master01
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_ba_master02
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_ba_master03
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_ba_master04
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_ba_master05
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_ba_master06
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_base_01
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_base_002
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_base_02
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_base_003
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_base_03
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_base_004
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_base_04
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_base_005
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_base_05
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_base_006
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_base_06
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_base_007
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_top_01
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_top_02
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_top_03
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_top_04
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_top_05
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hair_top_06
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hand_fk_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hand_fk_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hand_heel_ik_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hand_heel_ik_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hand_ik_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hand_ik_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hand_tweak_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hand_tweak_L_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hand_tweak_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hand_tweak_R_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_head
+        weight: 1
+      - path: WGTS_rig/WGT-rig_hips
+        weight: 1
+      - path: WGTS_rig/WGT-rig_jaw
+        weight: 1
+      - path: WGTS_rig/WGT-rig_jaw_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_neck
+        weight: 1
+      - path: WGTS_rig/WGT-rig_neck_bend
+        weight: 1
+      - path: WGTS_rig/WGT-rig_nose_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_nose_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_pelvis
+        weight: 1
+      - path: WGTS_rig/WGT-rig_r_toe_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_r_toe_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_r_toe_tweak_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_r_toe_tweak_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_root
+        weight: 1
+      - path: WGTS_rig/WGT-rig_shin_fk_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_shin_fk_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_shin_tweak_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_shin_tweak_L_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_shin_tweak_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_shin_tweak_R_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_shoulder_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_shoulder_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_spine
+        weight: 1
+      - path: WGTS_rig/WGT-rig_spine_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_spine_002
+        weight: 1
+      - path: WGTS_rig/WGT-rig_spine_003
+        weight: 1
+      - path: WGTS_rig/WGT-rig_spine_004
+        weight: 1
+      - path: WGTS_rig/WGT-rig_spine_master
+        weight: 1
+      - path: WGTS_rig/WGT-rig_thigh_fk_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_thigh_fk_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_thigh_ik_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_thigh_ik_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_thigh_ik_target_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_thigh_ik_target_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_thigh_parent_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_thigh_parent_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_thigh_tweak_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_thigh_tweak_L_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_thigh_tweak_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_thigh_tweak_R_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_torso
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_ear_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_ear_L_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_ear_L_002
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_ear_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_ear_R_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_ear_R_002
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_jaw
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_jaw_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_jaw_002
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_002
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_003
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_004
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_005
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_006
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_007
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_008
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_009
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_010
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_011
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_012
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_014
+        weight: 1
+      - path: WGTS_rig/WGT-rig_tweak_spine_015
+        weight: 1
+      - path: WGTS_rig/WGT-rig_upper_arm_fk_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_upper_arm_fk_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_upper_arm_ik_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_upper_arm_ik_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_upper_arm_ik_target_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_upper_arm_ik_target_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_upper_arm_parent_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_upper_arm_parent_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_upper_arm_tweak_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_upper_arm_tweak_L_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_upper_arm_tweak_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_upper_arm_tweak_R_001
+        weight: 1
+      - path: WGTS_rig/WGT-rig_VIS_thigh_ik_pole_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_VIS_thigh_ik_pole_R
+        weight: 1
+      - path: WGTS_rig/WGT-rig_VIS_upper_arm_ik_pole_L
+        weight: 1
+      - path: WGTS_rig/WGT-rig_VIS_upper_arm_ik_pole_R
+        weight: 1
+      - path: ZEBEYE1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
